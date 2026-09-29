@@ -1,0 +1,2857 @@
+backbone,benchmark,subject,approach,success,ms
+Qwen2.5-Coder-32B,HumanEval-Java,HE-001,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-001,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-002,Vanilla,1,0.8571
+Qwen2.5-Coder-32B,HumanEval-Java,HE-002,FEGAR,1,0.8571
+Qwen2.5-Coder-32B,HumanEval-Java,HE-003,Vanilla,1,0.9231
+Qwen2.5-Coder-32B,HumanEval-Java,HE-003,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-004,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-004,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-005,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-005,FEGAR,1,0.7857
+Qwen2.5-Coder-32B,HumanEval-Java,HE-006,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-006,FEGAR,1,0.8571
+Qwen2.5-Coder-32B,HumanEval-Java,HE-007,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-007,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-008,Vanilla,1,0.7200
+Qwen2.5-Coder-32B,HumanEval-Java,HE-008,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-009,Vanilla,1,0.5667
+Qwen2.5-Coder-32B,HumanEval-Java,HE-009,FEGAR,1,0.6333
+Qwen2.5-Coder-32B,HumanEval-Java,HE-010,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-010,FEGAR,1,0.8636
+Qwen2.5-Coder-32B,HumanEval-Java,HE-011,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-011,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-012,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-012,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-013,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-013,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-014,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-014,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-015,Vanilla,1,0.9000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-015,FEGAR,1,0.9000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-016,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-016,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-017,Vanilla,1,0.6316
+Qwen2.5-Coder-32B,HumanEval-Java,HE-017,FEGAR,1,0.6842
+Qwen2.5-Coder-32B,HumanEval-Java,HE-018,Vanilla,1,0.6500
+Qwen2.5-Coder-32B,HumanEval-Java,HE-018,FEGAR,1,0.8000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-019,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-019,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-020,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-020,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-021,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-021,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-022,Vanilla,1,0.7500
+Qwen2.5-Coder-32B,HumanEval-Java,HE-022,FEGAR,1,0.7500
+Qwen2.5-Coder-32B,HumanEval-Java,HE-023,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-023,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-024,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-024,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-025,Vanilla,1,0.8000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-025,FEGAR,1,0.9000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-026,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-026,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-027,Vanilla,1,0.8750
+Qwen2.5-Coder-32B,HumanEval-Java,HE-027,FEGAR,1,0.8750
+Qwen2.5-Coder-32B,HumanEval-Java,HE-028,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-028,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-029,Vanilla,1,0.8333
+Qwen2.5-Coder-32B,HumanEval-Java,HE-029,FEGAR,1,0.8333
+Qwen2.5-Coder-32B,HumanEval-Java,HE-030,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-030,FEGAR,1,0.9000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-031,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-031,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-032,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-032,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-033,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-033,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-034,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-034,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-035,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-035,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-036,Vanilla,1,0.8462
+Qwen2.5-Coder-32B,HumanEval-Java,HE-036,FEGAR,1,0.9231
+Qwen2.5-Coder-32B,HumanEval-Java,HE-037,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-037,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-038,Vanilla,1,0.8000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-038,FEGAR,1,0.8000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-039,Vanilla,1,0.8500
+Qwen2.5-Coder-32B,HumanEval-Java,HE-039,FEGAR,1,0.8500
+Qwen2.5-Coder-32B,HumanEval-Java,HE-040,Vanilla,1,0.8750
+Qwen2.5-Coder-32B,HumanEval-Java,HE-040,FEGAR,1,0.8750
+Qwen2.5-Coder-32B,HumanEval-Java,HE-041,Vanilla,1,0.6333
+Qwen2.5-Coder-32B,HumanEval-Java,HE-041,FEGAR,1,0.7000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-042,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-042,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-043,Vanilla,1,0.8125
+Qwen2.5-Coder-32B,HumanEval-Java,HE-043,FEGAR,1,0.8125
+Qwen2.5-Coder-32B,HumanEval-Java,HE-044,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-044,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-045,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-045,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-046,Vanilla,1,0.8571
+Qwen2.5-Coder-32B,HumanEval-Java,HE-046,FEGAR,1,0.8571
+Qwen2.5-Coder-32B,HumanEval-Java,HE-047,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-047,FEGAR,1,0.9333
+Qwen2.5-Coder-32B,HumanEval-Java,HE-048,Vanilla,1,0.9091
+Qwen2.5-Coder-32B,HumanEval-Java,HE-048,FEGAR,1,0.9091
+Qwen2.5-Coder-32B,HumanEval-Java,HE-049,Vanilla,1,0.8333
+Qwen2.5-Coder-32B,HumanEval-Java,HE-049,FEGAR,1,0.8333
+Qwen2.5-Coder-32B,HumanEval-Java,HE-050,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-050,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-051,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-051,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-052,Vanilla,1,0.9130
+Qwen2.5-Coder-32B,HumanEval-Java,HE-052,FEGAR,1,0.9130
+Qwen2.5-Coder-32B,HumanEval-Java,HE-053,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-053,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-054,Vanilla,1,0.9091
+Qwen2.5-Coder-32B,HumanEval-Java,HE-054,FEGAR,1,0.9091
+Qwen2.5-Coder-32B,HumanEval-Java,HE-055,Vanilla,1,0.9167
+Qwen2.5-Coder-32B,HumanEval-Java,HE-055,FEGAR,1,0.9167
+Qwen2.5-Coder-32B,HumanEval-Java,HE-056,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-056,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-057,Vanilla,1,0.9167
+Qwen2.5-Coder-32B,HumanEval-Java,HE-057,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-058,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-058,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-059,Vanilla,1,0.8667
+Qwen2.5-Coder-32B,HumanEval-Java,HE-059,FEGAR,1,0.8667
+Qwen2.5-Coder-32B,HumanEval-Java,HE-060,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-060,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-061,Vanilla,1,0.8333
+Qwen2.5-Coder-32B,HumanEval-Java,HE-061,FEGAR,1,0.8333
+Qwen2.5-Coder-32B,HumanEval-Java,HE-062,Vanilla,1,0.8889
+Qwen2.5-Coder-32B,HumanEval-Java,HE-062,FEGAR,1,0.8889
+Qwen2.5-Coder-32B,HumanEval-Java,HE-063,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-063,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-064,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-064,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-065,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-065,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-066,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-066,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-067,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-067,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-068,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-068,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-069,Vanilla,1,0.8333
+Qwen2.5-Coder-32B,HumanEval-Java,HE-069,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-070,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-070,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-071,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-071,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-072,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-072,FEGAR,1,0.9091
+Qwen2.5-Coder-32B,HumanEval-Java,HE-073,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-073,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-074,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-074,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-075,Vanilla,1,0.7500
+Qwen2.5-Coder-32B,HumanEval-Java,HE-075,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-076,Vanilla,1,0.8182
+Qwen2.5-Coder-32B,HumanEval-Java,HE-076,FEGAR,1,0.9091
+Qwen2.5-Coder-32B,HumanEval-Java,HE-077,Vanilla,1,0.9474
+Qwen2.5-Coder-32B,HumanEval-Java,HE-077,FEGAR,1,0.9474
+Qwen2.5-Coder-32B,HumanEval-Java,HE-078,Vanilla,1,0.8462
+Qwen2.5-Coder-32B,HumanEval-Java,HE-078,FEGAR,1,0.8462
+Qwen2.5-Coder-32B,HumanEval-Java,HE-079,Vanilla,1,0.9474
+Qwen2.5-Coder-32B,HumanEval-Java,HE-079,FEGAR,1,0.9474
+Qwen2.5-Coder-32B,HumanEval-Java,HE-080,Vanilla,1,0.9091
+Qwen2.5-Coder-32B,HumanEval-Java,HE-080,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-081,Vanilla,1,0.9167
+Qwen2.5-Coder-32B,HumanEval-Java,HE-081,FEGAR,1,0.9167
+Qwen2.5-Coder-32B,HumanEval-Java,HE-082,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-082,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-083,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-083,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-084,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-084,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-085,Vanilla,1,0.9231
+Qwen2.5-Coder-32B,HumanEval-Java,HE-085,FEGAR,1,0.9231
+Qwen2.5-Coder-32B,HumanEval-Java,HE-086,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-086,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-087,Vanilla,1,0.6250
+Qwen2.5-Coder-32B,HumanEval-Java,HE-087,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-088,Vanilla,1,0.8333
+Qwen2.5-Coder-32B,HumanEval-Java,HE-088,FEGAR,1,0.8333
+Qwen2.5-Coder-32B,HumanEval-Java,HE-089,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-089,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-090,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-090,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-091,Vanilla,1,0.8750
+Qwen2.5-Coder-32B,HumanEval-Java,HE-091,FEGAR,1,0.8750
+Qwen2.5-Coder-32B,HumanEval-Java,HE-092,Vanilla,1,0.6667
+Qwen2.5-Coder-32B,HumanEval-Java,HE-092,FEGAR,1,0.6667
+Qwen2.5-Coder-32B,HumanEval-Java,HE-093,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-093,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-094,Vanilla,1,0.8333
+Qwen2.5-Coder-32B,HumanEval-Java,HE-094,FEGAR,1,0.8333
+Qwen2.5-Coder-32B,HumanEval-Java,HE-095,Vanilla,1,0.9091
+Qwen2.5-Coder-32B,HumanEval-Java,HE-095,FEGAR,1,0.9091
+Qwen2.5-Coder-32B,HumanEval-Java,HE-096,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-096,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-097,Vanilla,1,0.7692
+Qwen2.5-Coder-32B,HumanEval-Java,HE-097,FEGAR,1,0.8462
+Qwen2.5-Coder-32B,HumanEval-Java,HE-098,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-098,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-099,Vanilla,1,0.9286
+Qwen2.5-Coder-32B,HumanEval-Java,HE-099,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-100,Vanilla,1,0.8000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-100,FEGAR,1,0.8000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-101,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-101,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-102,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-102,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-103,Vanilla,1,0.6667
+Qwen2.5-Coder-32B,HumanEval-Java,HE-103,FEGAR,1,0.6667
+Qwen2.5-Coder-32B,HumanEval-Java,HE-104,Vanilla,1,0.8000
+Qwen2.5-Coder-32B,HumanEval-Java,HE-104,FEGAR,1,0.8000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-001,Vanilla,1,0.7647
+Qwen2.5-Coder-32B,LeetCode-Java,LC-001,FEGAR,1,0.8824
+Qwen2.5-Coder-32B,LeetCode-Java,LC-002,Vanilla,1,0.8889
+Qwen2.5-Coder-32B,LeetCode-Java,LC-002,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-003,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-003,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-004,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-004,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-005,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-005,FEGAR,1,0.8333
+Qwen2.5-Coder-32B,LeetCode-Java,LC-006,Vanilla,1,0.8125
+Qwen2.5-Coder-32B,LeetCode-Java,LC-006,FEGAR,1,0.8750
+Qwen2.5-Coder-32B,LeetCode-Java,LC-007,Vanilla,1,0.9167
+Qwen2.5-Coder-32B,LeetCode-Java,LC-007,FEGAR,1,0.9167
+Qwen2.5-Coder-32B,LeetCode-Java,LC-008,Vanilla,1,0.9286
+Qwen2.5-Coder-32B,LeetCode-Java,LC-008,FEGAR,1,0.9286
+Qwen2.5-Coder-32B,LeetCode-Java,LC-009,Vanilla,1,0.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-009,FEGAR,1,0.9167
+Qwen2.5-Coder-32B,LeetCode-Java,LC-010,Vanilla,1,0.5909
+Qwen2.5-Coder-32B,LeetCode-Java,LC-010,FEGAR,1,0.6136
+Qwen2.5-Coder-32B,LeetCode-Java,LC-011,Vanilla,1,0.7941
+Qwen2.5-Coder-32B,LeetCode-Java,LC-011,FEGAR,1,0.8235
+Qwen2.5-Coder-32B,LeetCode-Java,LC-012,Vanilla,1,0.8571
+Qwen2.5-Coder-32B,LeetCode-Java,LC-012,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-013,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-013,FEGAR,1,0.9500
+Qwen2.5-Coder-32B,LeetCode-Java,LC-014,Vanilla,1,0.5000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-014,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-015,Vanilla,1,0.8235
+Qwen2.5-Coder-32B,LeetCode-Java,LC-015,FEGAR,1,0.9412
+Qwen2.5-Coder-32B,LeetCode-Java,LC-016,Vanilla,1,0.8750
+Qwen2.5-Coder-32B,LeetCode-Java,LC-016,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-017,Vanilla,1,0.8333
+Qwen2.5-Coder-32B,LeetCode-Java,LC-017,FEGAR,1,0.9583
+Qwen2.5-Coder-32B,LeetCode-Java,LC-018,Vanilla,1,0.5000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-018,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-019,Vanilla,1,0.7692
+Qwen2.5-Coder-32B,LeetCode-Java,LC-019,FEGAR,1,0.8462
+Qwen2.5-Coder-32B,LeetCode-Java,LC-020,Vanilla,1,0.7059
+Qwen2.5-Coder-32B,LeetCode-Java,LC-020,FEGAR,1,0.7647
+Qwen2.5-Coder-32B,LeetCode-Java,LC-021,Vanilla,1,0.2353
+Qwen2.5-Coder-32B,LeetCode-Java,LC-021,FEGAR,1,0.7647
+Qwen2.5-Coder-32B,LeetCode-Java,LC-022,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-022,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-023,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-023,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-024,Vanilla,1,0.9200
+Qwen2.5-Coder-32B,LeetCode-Java,LC-024,FEGAR,1,0.9200
+Qwen2.5-Coder-32B,LeetCode-Java,LC-025,Vanilla,1,0.3636
+Qwen2.5-Coder-32B,LeetCode-Java,LC-025,FEGAR,1,0.8182
+Qwen2.5-Coder-32B,LeetCode-Java,LC-026,Vanilla,1,0.7143
+Qwen2.5-Coder-32B,LeetCode-Java,LC-026,FEGAR,1,0.8571
+Qwen2.5-Coder-32B,LeetCode-Java,LC-027,Vanilla,1,0.8571
+Qwen2.5-Coder-32B,LeetCode-Java,LC-027,FEGAR,1,0.9286
+Qwen2.5-Coder-32B,LeetCode-Java,LC-028,Vanilla,1,0.6875
+Qwen2.5-Coder-32B,LeetCode-Java,LC-028,FEGAR,1,0.7500
+Qwen2.5-Coder-32B,LeetCode-Java,LC-029,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-029,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-030,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-030,FEGAR,1,0.3529
+Qwen2.5-Coder-32B,LeetCode-Java,LC-031,Vanilla,1,0.8750
+Qwen2.5-Coder-32B,LeetCode-Java,LC-031,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-032,Vanilla,1,0.8800
+Qwen2.5-Coder-32B,LeetCode-Java,LC-032,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-033,Vanilla,1,0.3462
+Qwen2.5-Coder-32B,LeetCode-Java,LC-033,FEGAR,1,0.8846
+Qwen2.5-Coder-32B,LeetCode-Java,LC-034,Vanilla,1,0.6304
+Qwen2.5-Coder-32B,LeetCode-Java,LC-034,FEGAR,1,0.8696
+Qwen2.5-Coder-32B,LeetCode-Java,LC-035,Vanilla,1,0.6500
+Qwen2.5-Coder-32B,LeetCode-Java,LC-035,FEGAR,1,0.6500
+Qwen2.5-Coder-32B,LeetCode-Java,LC-036,Vanilla,1,0.9167
+Qwen2.5-Coder-32B,LeetCode-Java,LC-036,FEGAR,1,0.9583
+Qwen2.5-Coder-32B,LeetCode-Java,LC-037,Vanilla,1,0.9524
+Qwen2.5-Coder-32B,LeetCode-Java,LC-037,FEGAR,1,0.9524
+Qwen2.5-Coder-32B,LeetCode-Java,LC-038,Vanilla,1,0.7568
+Qwen2.5-Coder-32B,LeetCode-Java,LC-038,FEGAR,1,0.8649
+Qwen2.5-Coder-32B,LeetCode-Java,LC-039,Vanilla,1,0.2727
+Qwen2.5-Coder-32B,LeetCode-Java,LC-039,FEGAR,1,0.7727
+Qwen2.5-Coder-32B,LeetCode-Java,LC-040,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-040,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-041,Vanilla,1,0.9286
+Qwen2.5-Coder-32B,LeetCode-Java,LC-041,FEGAR,1,0.9286
+Qwen2.5-Coder-32B,LeetCode-Java,LC-042,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-042,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-043,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-043,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-044,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-044,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-045,Vanilla,1,0.7500
+Qwen2.5-Coder-32B,LeetCode-Java,LC-045,FEGAR,1,0.8750
+Qwen2.5-Coder-32B,LeetCode-Java,LC-046,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-046,FEGAR,1,0.9268
+Qwen2.5-Coder-32B,LeetCode-Java,LC-047,Vanilla,1,0.7500
+Qwen2.5-Coder-32B,LeetCode-Java,LC-047,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-048,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-048,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-049,Vanilla,1,0.8421
+Qwen2.5-Coder-32B,LeetCode-Java,LC-049,FEGAR,1,0.9474
+Qwen2.5-Coder-32B,LeetCode-Java,LC-050,Vanilla,1,0.7500
+Qwen2.5-Coder-32B,LeetCode-Java,LC-050,FEGAR,1,0.7500
+Qwen2.5-Coder-32B,LeetCode-Java,LC-051,Vanilla,1,0.7241
+Qwen2.5-Coder-32B,LeetCode-Java,LC-051,FEGAR,1,0.7241
+Qwen2.5-Coder-32B,LeetCode-Java,LC-052,Vanilla,1,0.9667
+Qwen2.5-Coder-32B,LeetCode-Java,LC-052,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-053,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-053,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-054,Vanilla,1,0.4483
+Qwen2.5-Coder-32B,LeetCode-Java,LC-054,FEGAR,1,0.9655
+Qwen2.5-Coder-32B,LeetCode-Java,LC-055,Vanilla,1,0.9286
+Qwen2.5-Coder-32B,LeetCode-Java,LC-055,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-056,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-056,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-057,Vanilla,1,0.8462
+Qwen2.5-Coder-32B,LeetCode-Java,LC-057,FEGAR,1,0.8462
+Qwen2.5-Coder-32B,LeetCode-Java,LC-058,Vanilla,1,0.9211
+Qwen2.5-Coder-32B,LeetCode-Java,LC-058,FEGAR,1,0.9474
+Qwen2.5-Coder-32B,LeetCode-Java,LC-059,Vanilla,1,0.7500
+Qwen2.5-Coder-32B,LeetCode-Java,LC-059,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-060,Vanilla,1,0.6000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-060,FEGAR,1,0.8800
+Qwen2.5-Coder-32B,LeetCode-Java,LC-061,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-061,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-062,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-062,FEGAR,1,0.8636
+Qwen2.5-Coder-32B,LeetCode-Java,LC-063,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-063,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-064,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-064,FEGAR,1,0.9000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-065,Vanilla,1,0.4483
+Qwen2.5-Coder-32B,LeetCode-Java,LC-065,FEGAR,1,0.8621
+Qwen2.5-Coder-32B,LeetCode-Java,LC-066,Vanilla,1,0.8378
+Qwen2.5-Coder-32B,LeetCode-Java,LC-066,FEGAR,1,0.8378
+Qwen2.5-Coder-32B,LeetCode-Java,LC-067,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-067,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-068,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-068,FEGAR,1,0.8421
+Qwen2.5-Coder-32B,LeetCode-Java,LC-069,Vanilla,1,0.9524
+Qwen2.5-Coder-32B,LeetCode-Java,LC-069,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-070,Vanilla,1,0.6400
+Qwen2.5-Coder-32B,LeetCode-Java,LC-070,FEGAR,1,0.7200
+Qwen2.5-Coder-32B,LeetCode-Java,LC-071,Vanilla,1,0.9375
+Qwen2.5-Coder-32B,LeetCode-Java,LC-071,FEGAR,1,0.9375
+Qwen2.5-Coder-32B,LeetCode-Java,LC-072,Vanilla,1,0.9048
+Qwen2.5-Coder-32B,LeetCode-Java,LC-072,FEGAR,1,0.9048
+Qwen2.5-Coder-32B,LeetCode-Java,LC-073,Vanilla,1,0.2727
+Qwen2.5-Coder-32B,LeetCode-Java,LC-073,FEGAR,1,0.7727
+Qwen2.5-Coder-32B,LeetCode-Java,LC-074,Vanilla,1,0.6250
+Qwen2.5-Coder-32B,LeetCode-Java,LC-074,FEGAR,1,0.6875
+Qwen2.5-Coder-32B,LeetCode-Java,LC-075,Vanilla,1,0.8571
+Qwen2.5-Coder-32B,LeetCode-Java,LC-075,FEGAR,1,0.9524
+Qwen2.5-Coder-32B,LeetCode-Java,LC-076,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-076,FEGAR,1,0.7500
+Qwen2.5-Coder-32B,LeetCode-Java,LC-077,Vanilla,1,0.8889
+Qwen2.5-Coder-32B,LeetCode-Java,LC-077,FEGAR,1,0.8889
+Qwen2.5-Coder-32B,LeetCode-Java,LC-078,Vanilla,1,0.9200
+Qwen2.5-Coder-32B,LeetCode-Java,LC-078,FEGAR,1,0.9200
+Qwen2.5-Coder-32B,LeetCode-Java,LC-079,Vanilla,1,0.7368
+Qwen2.5-Coder-32B,LeetCode-Java,LC-079,FEGAR,1,0.9474
+Qwen2.5-Coder-32B,LeetCode-Java,LC-080,Vanilla,1,0.8182
+Qwen2.5-Coder-32B,LeetCode-Java,LC-080,FEGAR,1,0.8182
+Qwen2.5-Coder-32B,LeetCode-Java,LC-081,Vanilla,1,0.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-081,FEGAR,1,0.9444
+Qwen2.5-Coder-32B,LeetCode-Java,LC-082,Vanilla,1,0.9500
+Qwen2.5-Coder-32B,LeetCode-Java,LC-082,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-083,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-083,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-084,Vanilla,1,0.6875
+Qwen2.5-Coder-32B,LeetCode-Java,LC-084,FEGAR,1,0.7292
+Qwen2.5-Coder-32B,LeetCode-Java,LC-085,Vanilla,1,0.8333
+Qwen2.5-Coder-32B,LeetCode-Java,LC-085,FEGAR,1,0.9167
+Qwen2.5-Coder-32B,LeetCode-Java,LC-086,Vanilla,1,0.8571
+Qwen2.5-Coder-32B,LeetCode-Java,LC-086,FEGAR,1,0.9048
+Qwen2.5-Coder-32B,LeetCode-Java,LC-087,Vanilla,1,0.9667
+Qwen2.5-Coder-32B,LeetCode-Java,LC-087,FEGAR,1,0.9667
+Qwen2.5-Coder-32B,LeetCode-Java,LC-088,Vanilla,1,0.3529
+Qwen2.5-Coder-32B,LeetCode-Java,LC-088,FEGAR,1,0.8824
+Qwen2.5-Coder-32B,LeetCode-Java,LC-089,Vanilla,1,0.7333
+Qwen2.5-Coder-32B,LeetCode-Java,LC-089,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-090,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-090,FEGAR,1,0.7222
+Qwen2.5-Coder-32B,LeetCode-Java,LC-091,Vanilla,1,0.6154
+Qwen2.5-Coder-32B,LeetCode-Java,LC-091,FEGAR,1,0.8462
+Qwen2.5-Coder-32B,LeetCode-Java,LC-092,Vanilla,1,0.8636
+Qwen2.5-Coder-32B,LeetCode-Java,LC-092,FEGAR,1,0.8636
+Qwen2.5-Coder-32B,LeetCode-Java,LC-093,Vanilla,1,0.7857
+Qwen2.5-Coder-32B,LeetCode-Java,LC-093,FEGAR,1,0.8571
+Qwen2.5-Coder-32B,LeetCode-Java,LC-094,Vanilla,1,0.6190
+Qwen2.5-Coder-32B,LeetCode-Java,LC-094,FEGAR,1,0.6190
+Qwen2.5-Coder-32B,LeetCode-Java,LC-095,Vanilla,1,0.5556
+Qwen2.5-Coder-32B,LeetCode-Java,LC-095,FEGAR,1,0.8889
+Qwen2.5-Coder-32B,LeetCode-Java,LC-096,Vanilla,1,0.9048
+Qwen2.5-Coder-32B,LeetCode-Java,LC-096,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-097,Vanilla,1,0.7059
+Qwen2.5-Coder-32B,LeetCode-Java,LC-097,FEGAR,1,0.9412
+Qwen2.5-Coder-32B,LeetCode-Java,LC-098,Vanilla,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-098,FEGAR,1,1.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-099,Vanilla,1,0.9600
+Qwen2.5-Coder-32B,LeetCode-Java,LC-099,FEGAR,1,0.9600
+Qwen2.5-Coder-32B,LeetCode-Java,LC-100,Vanilla,0,0.0000
+Qwen2.5-Coder-32B,LeetCode-Java,LC-100,FEGAR,1,0.9310
+DeepSeek-Coder-33B,HumanEval-Java,HE-001,Vanilla,1,0.5000
+DeepSeek-Coder-33B,HumanEval-Java,HE-001,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-002,Vanilla,1,0.8571
+DeepSeek-Coder-33B,HumanEval-Java,HE-002,FEGAR,1,0.8571
+DeepSeek-Coder-33B,HumanEval-Java,HE-003,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-003,FEGAR,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-004,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-004,FEGAR,1,0.5385
+DeepSeek-Coder-33B,HumanEval-Java,HE-005,Vanilla,1,0.7857
+DeepSeek-Coder-33B,HumanEval-Java,HE-005,FEGAR,1,0.7857
+DeepSeek-Coder-33B,HumanEval-Java,HE-006,Vanilla,1,0.8571
+DeepSeek-Coder-33B,HumanEval-Java,HE-006,FEGAR,1,0.8571
+DeepSeek-Coder-33B,HumanEval-Java,HE-007,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-007,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-008,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-008,FEGAR,1,0.8000
+DeepSeek-Coder-33B,HumanEval-Java,HE-009,Vanilla,1,0.5667
+DeepSeek-Coder-33B,HumanEval-Java,HE-009,FEGAR,1,0.5667
+DeepSeek-Coder-33B,HumanEval-Java,HE-010,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-010,FEGAR,1,0.0909
+DeepSeek-Coder-33B,HumanEval-Java,HE-011,Vanilla,1,0.7143
+DeepSeek-Coder-33B,HumanEval-Java,HE-011,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-012,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-012,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-013,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-013,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-014,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-014,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-015,Vanilla,1,0.9000
+DeepSeek-Coder-33B,HumanEval-Java,HE-015,FEGAR,1,0.9000
+DeepSeek-Coder-33B,HumanEval-Java,HE-016,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-016,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-017,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-017,FEGAR,1,0.6316
+DeepSeek-Coder-33B,HumanEval-Java,HE-018,Vanilla,1,0.4500
+DeepSeek-Coder-33B,HumanEval-Java,HE-018,FEGAR,1,0.7000
+DeepSeek-Coder-33B,HumanEval-Java,HE-019,Vanilla,1,0.0769
+DeepSeek-Coder-33B,HumanEval-Java,HE-019,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-020,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-020,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-021,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-021,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-022,Vanilla,1,0.7500
+DeepSeek-Coder-33B,HumanEval-Java,HE-022,FEGAR,1,0.7500
+DeepSeek-Coder-33B,HumanEval-Java,HE-023,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-023,FEGAR,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-024,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-024,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-025,Vanilla,1,0.8000
+DeepSeek-Coder-33B,HumanEval-Java,HE-025,FEGAR,1,0.9000
+DeepSeek-Coder-33B,HumanEval-Java,HE-026,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-026,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-027,Vanilla,1,0.8750
+DeepSeek-Coder-33B,HumanEval-Java,HE-027,FEGAR,1,0.8750
+DeepSeek-Coder-33B,HumanEval-Java,HE-028,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-028,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-029,Vanilla,1,0.8333
+DeepSeek-Coder-33B,HumanEval-Java,HE-029,FEGAR,1,0.8333
+DeepSeek-Coder-33B,HumanEval-Java,HE-030,Vanilla,1,0.9000
+DeepSeek-Coder-33B,HumanEval-Java,HE-030,FEGAR,1,0.9000
+DeepSeek-Coder-33B,HumanEval-Java,HE-031,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-031,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-032,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-032,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-033,Vanilla,1,0.7692
+DeepSeek-Coder-33B,HumanEval-Java,HE-033,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-034,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-034,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-035,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-035,FEGAR,1,0.8571
+DeepSeek-Coder-33B,HumanEval-Java,HE-036,Vanilla,1,0.8462
+DeepSeek-Coder-33B,HumanEval-Java,HE-036,FEGAR,1,0.8462
+DeepSeek-Coder-33B,HumanEval-Java,HE-037,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-037,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-038,Vanilla,1,0.6000
+DeepSeek-Coder-33B,HumanEval-Java,HE-038,FEGAR,1,0.8000
+DeepSeek-Coder-33B,HumanEval-Java,HE-039,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-039,FEGAR,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-040,Vanilla,1,0.8750
+DeepSeek-Coder-33B,HumanEval-Java,HE-040,FEGAR,1,0.8750
+DeepSeek-Coder-33B,HumanEval-Java,HE-041,Vanilla,1,0.5000
+DeepSeek-Coder-33B,HumanEval-Java,HE-041,FEGAR,1,0.6667
+DeepSeek-Coder-33B,HumanEval-Java,HE-042,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-042,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-043,Vanilla,1,0.5625
+DeepSeek-Coder-33B,HumanEval-Java,HE-043,FEGAR,1,0.5625
+DeepSeek-Coder-33B,HumanEval-Java,HE-044,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-044,FEGAR,1,0.8182
+DeepSeek-Coder-33B,HumanEval-Java,HE-045,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-045,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-046,Vanilla,1,0.8571
+DeepSeek-Coder-33B,HumanEval-Java,HE-046,FEGAR,1,0.8571
+DeepSeek-Coder-33B,HumanEval-Java,HE-047,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-047,FEGAR,1,0.9333
+DeepSeek-Coder-33B,HumanEval-Java,HE-048,Vanilla,1,0.9091
+DeepSeek-Coder-33B,HumanEval-Java,HE-048,FEGAR,1,0.9091
+DeepSeek-Coder-33B,HumanEval-Java,HE-049,Vanilla,1,0.8333
+DeepSeek-Coder-33B,HumanEval-Java,HE-049,FEGAR,1,0.8333
+DeepSeek-Coder-33B,HumanEval-Java,HE-050,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-050,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-051,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-051,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-052,Vanilla,1,0.9130
+DeepSeek-Coder-33B,HumanEval-Java,HE-052,FEGAR,1,0.9130
+DeepSeek-Coder-33B,HumanEval-Java,HE-053,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-053,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-054,Vanilla,1,0.9091
+DeepSeek-Coder-33B,HumanEval-Java,HE-054,FEGAR,1,0.9091
+DeepSeek-Coder-33B,HumanEval-Java,HE-055,Vanilla,1,0.8333
+DeepSeek-Coder-33B,HumanEval-Java,HE-055,FEGAR,1,0.9167
+DeepSeek-Coder-33B,HumanEval-Java,HE-056,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-056,FEGAR,1,0.7143
+DeepSeek-Coder-33B,HumanEval-Java,HE-057,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-057,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-058,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-058,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-059,Vanilla,1,0.8000
+DeepSeek-Coder-33B,HumanEval-Java,HE-059,FEGAR,1,0.8000
+DeepSeek-Coder-33B,HumanEval-Java,HE-060,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-060,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-061,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-061,FEGAR,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-062,Vanilla,1,0.8889
+DeepSeek-Coder-33B,HumanEval-Java,HE-062,FEGAR,1,0.8889
+DeepSeek-Coder-33B,HumanEval-Java,HE-063,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-063,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-064,Vanilla,1,0.8750
+DeepSeek-Coder-33B,HumanEval-Java,HE-064,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-065,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-065,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-066,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-066,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-067,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-067,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-068,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-068,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-069,Vanilla,1,0.8333
+DeepSeek-Coder-33B,HumanEval-Java,HE-069,FEGAR,1,0.8333
+DeepSeek-Coder-33B,HumanEval-Java,HE-070,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-070,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-071,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-071,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-072,Vanilla,1,0.5909
+DeepSeek-Coder-33B,HumanEval-Java,HE-072,FEGAR,1,0.5909
+DeepSeek-Coder-33B,HumanEval-Java,HE-073,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-073,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-074,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-074,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-075,Vanilla,1,0.7500
+DeepSeek-Coder-33B,HumanEval-Java,HE-075,FEGAR,1,0.7500
+DeepSeek-Coder-33B,HumanEval-Java,HE-076,Vanilla,1,0.8182
+DeepSeek-Coder-33B,HumanEval-Java,HE-076,FEGAR,1,0.8182
+DeepSeek-Coder-33B,HumanEval-Java,HE-077,Vanilla,1,0.9474
+DeepSeek-Coder-33B,HumanEval-Java,HE-077,FEGAR,1,0.9474
+DeepSeek-Coder-33B,HumanEval-Java,HE-078,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-078,FEGAR,1,0.8462
+DeepSeek-Coder-33B,HumanEval-Java,HE-079,Vanilla,1,0.7368
+DeepSeek-Coder-33B,HumanEval-Java,HE-079,FEGAR,1,0.7368
+DeepSeek-Coder-33B,HumanEval-Java,HE-080,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-080,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-081,Vanilla,1,0.9167
+DeepSeek-Coder-33B,HumanEval-Java,HE-081,FEGAR,1,0.9167
+DeepSeek-Coder-33B,HumanEval-Java,HE-082,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-082,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-083,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-083,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-084,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-084,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-085,Vanilla,1,0.9231
+DeepSeek-Coder-33B,HumanEval-Java,HE-085,FEGAR,1,0.9231
+DeepSeek-Coder-33B,HumanEval-Java,HE-086,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-086,FEGAR,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-087,Vanilla,1,0.1250
+DeepSeek-Coder-33B,HumanEval-Java,HE-087,FEGAR,1,0.1875
+DeepSeek-Coder-33B,HumanEval-Java,HE-088,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-088,FEGAR,1,0.8333
+DeepSeek-Coder-33B,HumanEval-Java,HE-089,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-089,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-090,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-090,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-091,Vanilla,1,0.8750
+DeepSeek-Coder-33B,HumanEval-Java,HE-091,FEGAR,1,0.8750
+DeepSeek-Coder-33B,HumanEval-Java,HE-092,Vanilla,1,0.6667
+DeepSeek-Coder-33B,HumanEval-Java,HE-092,FEGAR,1,0.6667
+DeepSeek-Coder-33B,HumanEval-Java,HE-093,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-093,FEGAR,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-094,Vanilla,1,0.8333
+DeepSeek-Coder-33B,HumanEval-Java,HE-094,FEGAR,1,0.8333
+DeepSeek-Coder-33B,HumanEval-Java,HE-095,Vanilla,1,0.7273
+DeepSeek-Coder-33B,HumanEval-Java,HE-095,FEGAR,1,0.7273
+DeepSeek-Coder-33B,HumanEval-Java,HE-096,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-096,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-097,Vanilla,1,0.6923
+DeepSeek-Coder-33B,HumanEval-Java,HE-097,FEGAR,1,0.6923
+DeepSeek-Coder-33B,HumanEval-Java,HE-098,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-098,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-099,Vanilla,1,0.8571
+DeepSeek-Coder-33B,HumanEval-Java,HE-099,FEGAR,1,0.8571
+DeepSeek-Coder-33B,HumanEval-Java,HE-100,Vanilla,1,0.8000
+DeepSeek-Coder-33B,HumanEval-Java,HE-100,FEGAR,1,0.8000
+DeepSeek-Coder-33B,HumanEval-Java,HE-101,Vanilla,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-101,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-102,Vanilla,0,0.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-102,FEGAR,1,1.0000
+DeepSeek-Coder-33B,HumanEval-Java,HE-103,Vanilla,1,0.6667
+DeepSeek-Coder-33B,HumanEval-Java,HE-103,FEGAR,1,0.6667
+DeepSeek-Coder-33B,HumanEval-Java,HE-104,Vanilla,1,0.8000
+DeepSeek-Coder-33B,HumanEval-Java,HE-104,FEGAR,1,0.8000
+DeepSeek-Coder-33B,LeetCode-Java,LC-001,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-001,FEGAR,1,0.7059
+DeepSeek-Coder-33B,LeetCode-Java,LC-002,Vanilla,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-002,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-003,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-003,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-004,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-004,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-005,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-005,FEGAR,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-006,Vanilla,1,0.6250
+DeepSeek-Coder-33B,LeetCode-Java,LC-006,FEGAR,1,0.8750
+DeepSeek-Coder-33B,LeetCode-Java,LC-007,Vanilla,1,0.9167
+DeepSeek-Coder-33B,LeetCode-Java,LC-007,FEGAR,1,0.9167
+DeepSeek-Coder-33B,LeetCode-Java,LC-008,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-008,FEGAR,1,0.9286
+DeepSeek-Coder-33B,LeetCode-Java,LC-009,Vanilla,1,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-009,FEGAR,1,0.9167
+DeepSeek-Coder-33B,LeetCode-Java,LC-010,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-010,FEGAR,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-011,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-011,FEGAR,1,0.6765
+DeepSeek-Coder-33B,LeetCode-Java,LC-012,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-012,FEGAR,1,0.7143
+DeepSeek-Coder-33B,LeetCode-Java,LC-013,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-013,FEGAR,1,0.5500
+DeepSeek-Coder-33B,LeetCode-Java,LC-014,Vanilla,1,0.5000
+DeepSeek-Coder-33B,LeetCode-Java,LC-014,FEGAR,1,0.5000
+DeepSeek-Coder-33B,LeetCode-Java,LC-015,Vanilla,1,0.8235
+DeepSeek-Coder-33B,LeetCode-Java,LC-015,FEGAR,1,0.8235
+DeepSeek-Coder-33B,LeetCode-Java,LC-016,Vanilla,1,0.8750
+DeepSeek-Coder-33B,LeetCode-Java,LC-016,FEGAR,1,0.8750
+DeepSeek-Coder-33B,LeetCode-Java,LC-017,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-017,FEGAR,1,0.8750
+DeepSeek-Coder-33B,LeetCode-Java,LC-018,Vanilla,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-018,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-019,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-019,FEGAR,1,0.8077
+DeepSeek-Coder-33B,LeetCode-Java,LC-020,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-020,FEGAR,1,0.6471
+DeepSeek-Coder-33B,LeetCode-Java,LC-021,Vanilla,1,0.1765
+DeepSeek-Coder-33B,LeetCode-Java,LC-021,FEGAR,1,0.5294
+DeepSeek-Coder-33B,LeetCode-Java,LC-022,Vanilla,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-022,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-023,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-023,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-024,Vanilla,1,0.7200
+DeepSeek-Coder-33B,LeetCode-Java,LC-024,FEGAR,1,0.7200
+DeepSeek-Coder-33B,LeetCode-Java,LC-025,Vanilla,1,0.8182
+DeepSeek-Coder-33B,LeetCode-Java,LC-025,FEGAR,1,0.8182
+DeepSeek-Coder-33B,LeetCode-Java,LC-026,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-026,FEGAR,1,0.5714
+DeepSeek-Coder-33B,LeetCode-Java,LC-027,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-027,FEGAR,1,0.9286
+DeepSeek-Coder-33B,LeetCode-Java,LC-028,Vanilla,1,0.6250
+DeepSeek-Coder-33B,LeetCode-Java,LC-028,FEGAR,1,0.6875
+DeepSeek-Coder-33B,LeetCode-Java,LC-029,Vanilla,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-029,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-030,Vanilla,1,0.2353
+DeepSeek-Coder-33B,LeetCode-Java,LC-030,FEGAR,1,0.2353
+DeepSeek-Coder-33B,LeetCode-Java,LC-031,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-031,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-032,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-032,FEGAR,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-033,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-033,FEGAR,1,0.3462
+DeepSeek-Coder-33B,LeetCode-Java,LC-034,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-034,FEGAR,1,0.6957
+DeepSeek-Coder-33B,LeetCode-Java,LC-035,Vanilla,1,0.7000
+DeepSeek-Coder-33B,LeetCode-Java,LC-035,FEGAR,1,0.7000
+DeepSeek-Coder-33B,LeetCode-Java,LC-036,Vanilla,1,0.3333
+DeepSeek-Coder-33B,LeetCode-Java,LC-036,FEGAR,1,0.8750
+DeepSeek-Coder-33B,LeetCode-Java,LC-037,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-037,FEGAR,1,0.9524
+DeepSeek-Coder-33B,LeetCode-Java,LC-038,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-038,FEGAR,1,0.8919
+DeepSeek-Coder-33B,LeetCode-Java,LC-039,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-039,FEGAR,1,0.0455
+DeepSeek-Coder-33B,LeetCode-Java,LC-040,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-040,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-041,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-041,FEGAR,1,0.8571
+DeepSeek-Coder-33B,LeetCode-Java,LC-042,Vanilla,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-042,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-043,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-043,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-044,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-044,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-045,Vanilla,1,0.8750
+DeepSeek-Coder-33B,LeetCode-Java,LC-045,FEGAR,1,0.8750
+DeepSeek-Coder-33B,LeetCode-Java,LC-046,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-046,FEGAR,1,0.8293
+DeepSeek-Coder-33B,LeetCode-Java,LC-047,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-047,FEGAR,1,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-048,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-048,FEGAR,1,0.9556
+DeepSeek-Coder-33B,LeetCode-Java,LC-049,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-049,FEGAR,1,0.9474
+DeepSeek-Coder-33B,LeetCode-Java,LC-050,Vanilla,1,0.5000
+DeepSeek-Coder-33B,LeetCode-Java,LC-050,FEGAR,1,0.7500
+DeepSeek-Coder-33B,LeetCode-Java,LC-051,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-051,FEGAR,1,0.8966
+DeepSeek-Coder-33B,LeetCode-Java,LC-052,Vanilla,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-052,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-053,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-053,FEGAR,1,0.7273
+DeepSeek-Coder-33B,LeetCode-Java,LC-054,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-054,FEGAR,1,0.4483
+DeepSeek-Coder-33B,LeetCode-Java,LC-055,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-055,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-056,Vanilla,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-056,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-057,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-057,FEGAR,1,0.9231
+DeepSeek-Coder-33B,LeetCode-Java,LC-058,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-058,FEGAR,1,0.9211
+DeepSeek-Coder-33B,LeetCode-Java,LC-059,Vanilla,1,0.7500
+DeepSeek-Coder-33B,LeetCode-Java,LC-059,FEGAR,1,0.7500
+DeepSeek-Coder-33B,LeetCode-Java,LC-060,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-060,FEGAR,1,0.8800
+DeepSeek-Coder-33B,LeetCode-Java,LC-061,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-061,FEGAR,1,0.6667
+DeepSeek-Coder-33B,LeetCode-Java,LC-062,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-062,FEGAR,1,0.8636
+DeepSeek-Coder-33B,LeetCode-Java,LC-063,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-063,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-064,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-064,FEGAR,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-065,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-065,FEGAR,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-066,Vanilla,1,0.1892
+DeepSeek-Coder-33B,LeetCode-Java,LC-066,FEGAR,1,0.2703
+DeepSeek-Coder-33B,LeetCode-Java,LC-067,Vanilla,1,0.6667
+DeepSeek-Coder-33B,LeetCode-Java,LC-067,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-068,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-068,FEGAR,1,0.7895
+DeepSeek-Coder-33B,LeetCode-Java,LC-069,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-069,FEGAR,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-070,Vanilla,1,0.6800
+DeepSeek-Coder-33B,LeetCode-Java,LC-070,FEGAR,1,0.6800
+DeepSeek-Coder-33B,LeetCode-Java,LC-071,Vanilla,1,0.8750
+DeepSeek-Coder-33B,LeetCode-Java,LC-071,FEGAR,1,0.9375
+DeepSeek-Coder-33B,LeetCode-Java,LC-072,Vanilla,1,0.8571
+DeepSeek-Coder-33B,LeetCode-Java,LC-072,FEGAR,1,0.9524
+DeepSeek-Coder-33B,LeetCode-Java,LC-073,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-073,FEGAR,1,0.0455
+DeepSeek-Coder-33B,LeetCode-Java,LC-074,Vanilla,1,0.4375
+DeepSeek-Coder-33B,LeetCode-Java,LC-074,FEGAR,1,0.4375
+DeepSeek-Coder-33B,LeetCode-Java,LC-075,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-075,FEGAR,1,0.8571
+DeepSeek-Coder-33B,LeetCode-Java,LC-076,Vanilla,1,0.5000
+DeepSeek-Coder-33B,LeetCode-Java,LC-076,FEGAR,1,0.2500
+DeepSeek-Coder-33B,LeetCode-Java,LC-077,Vanilla,1,0.8889
+DeepSeek-Coder-33B,LeetCode-Java,LC-077,FEGAR,1,0.8889
+DeepSeek-Coder-33B,LeetCode-Java,LC-078,Vanilla,1,0.7600
+DeepSeek-Coder-33B,LeetCode-Java,LC-078,FEGAR,1,0.9200
+DeepSeek-Coder-33B,LeetCode-Java,LC-079,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-079,FEGAR,1,0.5263
+DeepSeek-Coder-33B,LeetCode-Java,LC-080,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-080,FEGAR,1,0.7727
+DeepSeek-Coder-33B,LeetCode-Java,LC-081,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-081,FEGAR,1,0.9167
+DeepSeek-Coder-33B,LeetCode-Java,LC-082,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-082,FEGAR,1,0.3000
+DeepSeek-Coder-33B,LeetCode-Java,LC-083,Vanilla,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-083,FEGAR,1,1.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-084,Vanilla,1,0.6250
+DeepSeek-Coder-33B,LeetCode-Java,LC-084,FEGAR,1,0.6250
+DeepSeek-Coder-33B,LeetCode-Java,LC-085,Vanilla,1,0.9167
+DeepSeek-Coder-33B,LeetCode-Java,LC-085,FEGAR,1,0.9167
+DeepSeek-Coder-33B,LeetCode-Java,LC-086,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-086,FEGAR,1,0.7143
+DeepSeek-Coder-33B,LeetCode-Java,LC-087,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-087,FEGAR,1,0.9667
+DeepSeek-Coder-33B,LeetCode-Java,LC-088,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-088,FEGAR,1,0.8824
+DeepSeek-Coder-33B,LeetCode-Java,LC-089,Vanilla,1,0.8667
+DeepSeek-Coder-33B,LeetCode-Java,LC-089,FEGAR,1,0.9333
+DeepSeek-Coder-33B,LeetCode-Java,LC-090,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-090,FEGAR,1,0.5556
+DeepSeek-Coder-33B,LeetCode-Java,LC-091,Vanilla,1,0.6154
+DeepSeek-Coder-33B,LeetCode-Java,LC-091,FEGAR,1,0.6154
+DeepSeek-Coder-33B,LeetCode-Java,LC-092,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-092,FEGAR,1,0.9091
+DeepSeek-Coder-33B,LeetCode-Java,LC-093,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-093,FEGAR,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-094,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-094,FEGAR,1,0.6190
+DeepSeek-Coder-33B,LeetCode-Java,LC-095,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-095,FEGAR,1,0.6667
+DeepSeek-Coder-33B,LeetCode-Java,LC-096,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-096,FEGAR,1,0.2857
+DeepSeek-Coder-33B,LeetCode-Java,LC-097,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-097,FEGAR,1,0.8824
+DeepSeek-Coder-33B,LeetCode-Java,LC-098,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-098,FEGAR,1,0.9167
+DeepSeek-Coder-33B,LeetCode-Java,LC-099,Vanilla,1,0.9200
+DeepSeek-Coder-33B,LeetCode-Java,LC-099,FEGAR,1,0.9200
+DeepSeek-Coder-33B,LeetCode-Java,LC-100,Vanilla,0,0.0000
+DeepSeek-Coder-33B,LeetCode-Java,LC-100,FEGAR,1,0.9310
+CodeLlama-34B,HumanEval-Java,HE-001,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-001,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-002,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-002,FEGAR,1,0.8571
+CodeLlama-34B,HumanEval-Java,HE-003,Vanilla,1,0.9231
+CodeLlama-34B,HumanEval-Java,HE-003,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-004,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-004,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-005,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-005,FEGAR,1,0.7857
+CodeLlama-34B,HumanEval-Java,HE-006,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-006,FEGAR,1,0.8571
+CodeLlama-34B,HumanEval-Java,HE-007,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-007,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-008,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-008,FEGAR,1,0.8000
+CodeLlama-34B,HumanEval-Java,HE-009,Vanilla,1,0.5667
+CodeLlama-34B,HumanEval-Java,HE-009,FEGAR,1,0.5667
+CodeLlama-34B,HumanEval-Java,HE-010,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-010,FEGAR,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-011,Vanilla,1,0.7143
+CodeLlama-34B,HumanEval-Java,HE-011,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-012,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-012,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-013,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-013,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-014,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-014,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-015,Vanilla,1,0.9000
+CodeLlama-34B,HumanEval-Java,HE-015,FEGAR,1,0.9000
+CodeLlama-34B,HumanEval-Java,HE-016,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-016,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-017,Vanilla,1,0.6316
+CodeLlama-34B,HumanEval-Java,HE-017,FEGAR,1,0.6316
+CodeLlama-34B,HumanEval-Java,HE-018,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-018,FEGAR,1,0.5500
+CodeLlama-34B,HumanEval-Java,HE-019,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-019,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-020,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-020,FEGAR,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-021,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-021,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-022,Vanilla,1,0.7500
+CodeLlama-34B,HumanEval-Java,HE-022,FEGAR,1,0.7500
+CodeLlama-34B,HumanEval-Java,HE-023,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-023,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-024,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-024,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-025,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-025,FEGAR,1,0.8000
+CodeLlama-34B,HumanEval-Java,HE-026,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-026,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-027,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-027,FEGAR,1,0.8750
+CodeLlama-34B,HumanEval-Java,HE-028,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-028,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-029,Vanilla,1,0.6667
+CodeLlama-34B,HumanEval-Java,HE-029,FEGAR,1,0.8333
+CodeLlama-34B,HumanEval-Java,HE-030,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-030,FEGAR,1,0.9000
+CodeLlama-34B,HumanEval-Java,HE-031,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-031,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-032,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-032,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-033,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-033,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-034,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-034,FEGAR,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-035,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-035,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-036,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-036,FEGAR,1,0.8462
+CodeLlama-34B,HumanEval-Java,HE-037,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-037,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-038,Vanilla,1,0.6000
+CodeLlama-34B,HumanEval-Java,HE-038,FEGAR,1,0.8000
+CodeLlama-34B,HumanEval-Java,HE-039,Vanilla,1,0.8000
+CodeLlama-34B,HumanEval-Java,HE-039,FEGAR,1,0.8000
+CodeLlama-34B,HumanEval-Java,HE-040,Vanilla,1,0.8750
+CodeLlama-34B,HumanEval-Java,HE-040,FEGAR,1,0.8750
+CodeLlama-34B,HumanEval-Java,HE-041,Vanilla,1,0.5000
+CodeLlama-34B,HumanEval-Java,HE-041,FEGAR,1,0.8333
+CodeLlama-34B,HumanEval-Java,HE-042,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-042,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-043,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-043,FEGAR,1,0.5625
+CodeLlama-34B,HumanEval-Java,HE-044,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-044,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-045,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-045,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-046,Vanilla,1,0.8571
+CodeLlama-34B,HumanEval-Java,HE-046,FEGAR,1,0.8571
+CodeLlama-34B,HumanEval-Java,HE-047,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-047,FEGAR,1,0.9333
+CodeLlama-34B,HumanEval-Java,HE-048,Vanilla,1,0.9091
+CodeLlama-34B,HumanEval-Java,HE-048,FEGAR,1,0.9091
+CodeLlama-34B,HumanEval-Java,HE-049,Vanilla,1,0.8333
+CodeLlama-34B,HumanEval-Java,HE-049,FEGAR,1,0.8333
+CodeLlama-34B,HumanEval-Java,HE-050,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-050,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-051,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-051,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-052,Vanilla,1,0.9130
+CodeLlama-34B,HumanEval-Java,HE-052,FEGAR,1,0.9130
+CodeLlama-34B,HumanEval-Java,HE-053,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-053,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-054,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-054,FEGAR,1,0.9091
+CodeLlama-34B,HumanEval-Java,HE-055,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-055,FEGAR,1,0.9167
+CodeLlama-34B,HumanEval-Java,HE-056,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-056,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-057,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-057,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-058,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-058,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-059,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-059,FEGAR,1,0.8000
+CodeLlama-34B,HumanEval-Java,HE-060,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-060,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-061,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-061,FEGAR,1,0.1667
+CodeLlama-34B,HumanEval-Java,HE-062,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-062,FEGAR,1,0.8889
+CodeLlama-34B,HumanEval-Java,HE-063,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-063,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-064,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-064,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-065,Vanilla,1,0.6250
+CodeLlama-34B,HumanEval-Java,HE-065,FEGAR,1,0.8750
+CodeLlama-34B,HumanEval-Java,HE-066,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-066,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-067,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-067,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-068,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-068,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-069,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-069,FEGAR,1,0.8333
+CodeLlama-34B,HumanEval-Java,HE-070,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-070,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-071,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-071,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-072,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-072,FEGAR,1,0.9091
+CodeLlama-34B,HumanEval-Java,HE-073,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-073,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-074,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-074,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-075,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-075,FEGAR,1,0.7500
+CodeLlama-34B,HumanEval-Java,HE-076,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-076,FEGAR,1,0.8182
+CodeLlama-34B,HumanEval-Java,HE-077,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-077,FEGAR,1,0.8947
+CodeLlama-34B,HumanEval-Java,HE-078,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-078,FEGAR,1,0.8462
+CodeLlama-34B,HumanEval-Java,HE-079,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-079,FEGAR,1,0.7368
+CodeLlama-34B,HumanEval-Java,HE-080,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-080,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-081,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-081,FEGAR,1,0.1667
+CodeLlama-34B,HumanEval-Java,HE-082,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-082,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-083,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-083,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-084,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-084,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-085,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-085,FEGAR,1,0.9231
+CodeLlama-34B,HumanEval-Java,HE-086,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-086,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-087,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-087,FEGAR,1,0.2500
+CodeLlama-34B,HumanEval-Java,HE-088,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-088,FEGAR,1,0.8333
+CodeLlama-34B,HumanEval-Java,HE-089,Vanilla,1,0.6923
+CodeLlama-34B,HumanEval-Java,HE-089,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-090,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-090,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-091,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-091,FEGAR,1,0.8750
+CodeLlama-34B,HumanEval-Java,HE-092,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-092,FEGAR,1,0.6667
+CodeLlama-34B,HumanEval-Java,HE-093,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-093,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-094,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-094,FEGAR,1,0.8333
+CodeLlama-34B,HumanEval-Java,HE-095,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-095,FEGAR,1,0.9091
+CodeLlama-34B,HumanEval-Java,HE-096,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-096,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-097,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-097,FEGAR,1,0.7692
+CodeLlama-34B,HumanEval-Java,HE-098,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-098,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-099,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-099,FEGAR,1,0.8571
+CodeLlama-34B,HumanEval-Java,HE-100,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-100,FEGAR,1,0.8000
+CodeLlama-34B,HumanEval-Java,HE-101,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-101,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-102,Vanilla,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-102,FEGAR,1,1.0000
+CodeLlama-34B,HumanEval-Java,HE-103,Vanilla,0,0.0000
+CodeLlama-34B,HumanEval-Java,HE-103,FEGAR,1,0.6667
+CodeLlama-34B,HumanEval-Java,HE-104,Vanilla,1,0.8000
+CodeLlama-34B,HumanEval-Java,HE-104,FEGAR,1,0.8000
+CodeLlama-34B,LeetCode-Java,LC-001,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-001,FEGAR,1,0.5882
+CodeLlama-34B,LeetCode-Java,LC-002,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-002,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-003,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-003,FEGAR,1,1.0000
+CodeLlama-34B,LeetCode-Java,LC-004,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-004,FEGAR,1,1.0000
+CodeLlama-34B,LeetCode-Java,LC-005,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-005,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-006,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-006,FEGAR,1,0.8125
+CodeLlama-34B,LeetCode-Java,LC-007,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-007,FEGAR,1,0.9167
+CodeLlama-34B,LeetCode-Java,LC-008,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-008,FEGAR,1,0.9286
+CodeLlama-34B,LeetCode-Java,LC-009,Vanilla,1,0.0000
+CodeLlama-34B,LeetCode-Java,LC-009,FEGAR,1,0.9167
+CodeLlama-34B,LeetCode-Java,LC-010,Vanilla,1,0.5682
+CodeLlama-34B,LeetCode-Java,LC-010,FEGAR,1,0.5682
+CodeLlama-34B,LeetCode-Java,LC-011,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-011,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-012,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-012,FEGAR,1,0.8571
+CodeLlama-34B,LeetCode-Java,LC-013,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-013,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-014,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-014,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-015,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-015,FEGAR,1,0.7059
+CodeLlama-34B,LeetCode-Java,LC-016,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-016,FEGAR,1,0.6250
+CodeLlama-34B,LeetCode-Java,LC-017,Vanilla,1,0.8750
+CodeLlama-34B,LeetCode-Java,LC-017,FEGAR,1,0.8750
+CodeLlama-34B,LeetCode-Java,LC-018,Vanilla,1,0.3000
+CodeLlama-34B,LeetCode-Java,LC-018,FEGAR,1,0.3000
+CodeLlama-34B,LeetCode-Java,LC-019,Vanilla,1,0.0385
+CodeLlama-34B,LeetCode-Java,LC-019,FEGAR,1,0.6923
+CodeLlama-34B,LeetCode-Java,LC-020,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-020,FEGAR,1,0.5882
+CodeLlama-34B,LeetCode-Java,LC-021,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-021,FEGAR,1,0.8235
+CodeLlama-34B,LeetCode-Java,LC-022,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-022,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-023,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-023,FEGAR,1,1.0000
+CodeLlama-34B,LeetCode-Java,LC-024,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-024,FEGAR,1,0.1200
+CodeLlama-34B,LeetCode-Java,LC-025,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-025,FEGAR,1,0.8182
+CodeLlama-34B,LeetCode-Java,LC-026,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-026,FEGAR,1,0.3571
+CodeLlama-34B,LeetCode-Java,LC-027,Vanilla,1,0.8571
+CodeLlama-34B,LeetCode-Java,LC-027,FEGAR,1,0.8571
+CodeLlama-34B,LeetCode-Java,LC-028,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-028,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-029,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-029,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-030,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-030,FEGAR,1,0.3529
+CodeLlama-34B,LeetCode-Java,LC-031,Vanilla,1,0.7500
+CodeLlama-34B,LeetCode-Java,LC-031,FEGAR,1,0.8750
+CodeLlama-34B,LeetCode-Java,LC-032,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-032,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-033,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-033,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-034,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-034,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-035,Vanilla,1,0.5000
+CodeLlama-34B,LeetCode-Java,LC-035,FEGAR,1,0.5000
+CodeLlama-34B,LeetCode-Java,LC-036,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-036,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-037,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-037,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-038,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-038,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-039,Vanilla,1,0.0909
+CodeLlama-34B,LeetCode-Java,LC-039,FEGAR,1,0.6364
+CodeLlama-34B,LeetCode-Java,LC-040,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-040,FEGAR,1,1.0000
+CodeLlama-34B,LeetCode-Java,LC-041,Vanilla,1,0.8571
+CodeLlama-34B,LeetCode-Java,LC-041,FEGAR,1,0.9286
+CodeLlama-34B,LeetCode-Java,LC-042,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-042,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-043,Vanilla,1,0.3000
+CodeLlama-34B,LeetCode-Java,LC-043,FEGAR,1,1.0000
+CodeLlama-34B,LeetCode-Java,LC-044,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-044,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-045,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-045,FEGAR,1,0.2500
+CodeLlama-34B,LeetCode-Java,LC-046,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-046,FEGAR,1,0.8049
+CodeLlama-34B,LeetCode-Java,LC-047,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-047,FEGAR,1,0.7500
+CodeLlama-34B,LeetCode-Java,LC-048,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-048,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-049,Vanilla,1,0.1579
+CodeLlama-34B,LeetCode-Java,LC-049,FEGAR,1,0.1579
+CodeLlama-34B,LeetCode-Java,LC-050,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-050,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-051,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-051,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-052,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-052,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-053,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-053,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-054,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-054,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-055,Vanilla,1,1.0000
+CodeLlama-34B,LeetCode-Java,LC-055,FEGAR,1,1.0000
+CodeLlama-34B,LeetCode-Java,LC-056,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-056,FEGAR,1,1.0000
+CodeLlama-34B,LeetCode-Java,LC-057,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-057,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-058,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-058,FEGAR,1,0.9211
+CodeLlama-34B,LeetCode-Java,LC-059,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-059,FEGAR,1,0.7500
+CodeLlama-34B,LeetCode-Java,LC-060,Vanilla,1,0.8800
+CodeLlama-34B,LeetCode-Java,LC-060,FEGAR,1,0.8800
+CodeLlama-34B,LeetCode-Java,LC-061,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-061,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-062,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-062,FEGAR,1,0.9091
+CodeLlama-34B,LeetCode-Java,LC-063,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-063,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-064,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-064,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-065,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-065,FEGAR,1,0.4483
+CodeLlama-34B,LeetCode-Java,LC-066,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-066,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-067,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-067,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-068,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-068,FEGAR,1,0.7895
+CodeLlama-34B,LeetCode-Java,LC-069,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-069,FEGAR,1,0.9524
+CodeLlama-34B,LeetCode-Java,LC-070,Vanilla,1,0.5600
+CodeLlama-34B,LeetCode-Java,LC-070,FEGAR,1,0.6800
+CodeLlama-34B,LeetCode-Java,LC-071,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-071,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-072,Vanilla,1,0.4762
+CodeLlama-34B,LeetCode-Java,LC-072,FEGAR,1,0.9048
+CodeLlama-34B,LeetCode-Java,LC-073,Vanilla,1,0.0909
+CodeLlama-34B,LeetCode-Java,LC-073,FEGAR,1,0.7727
+CodeLlama-34B,LeetCode-Java,LC-074,Vanilla,1,0.3750
+CodeLlama-34B,LeetCode-Java,LC-074,FEGAR,1,0.3750
+CodeLlama-34B,LeetCode-Java,LC-075,Vanilla,1,0.8571
+CodeLlama-34B,LeetCode-Java,LC-075,FEGAR,1,1.0000
+CodeLlama-34B,LeetCode-Java,LC-076,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-076,FEGAR,1,0.2500
+CodeLlama-34B,LeetCode-Java,LC-077,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-077,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-078,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-078,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-079,Vanilla,1,0.0526
+CodeLlama-34B,LeetCode-Java,LC-079,FEGAR,1,0.7368
+CodeLlama-34B,LeetCode-Java,LC-080,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-080,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-081,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-081,FEGAR,1,0.9167
+CodeLlama-34B,LeetCode-Java,LC-082,Vanilla,1,0.3000
+CodeLlama-34B,LeetCode-Java,LC-082,FEGAR,1,0.4500
+CodeLlama-34B,LeetCode-Java,LC-083,Vanilla,1,0.1429
+CodeLlama-34B,LeetCode-Java,LC-083,FEGAR,1,0.8571
+CodeLlama-34B,LeetCode-Java,LC-084,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-084,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-085,Vanilla,1,0.7500
+CodeLlama-34B,LeetCode-Java,LC-085,FEGAR,1,0.8333
+CodeLlama-34B,LeetCode-Java,LC-086,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-086,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-087,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-087,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-088,Vanilla,1,0.8235
+CodeLlama-34B,LeetCode-Java,LC-088,FEGAR,1,0.8824
+CodeLlama-34B,LeetCode-Java,LC-089,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-089,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-090,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-090,FEGAR,1,0.6667
+CodeLlama-34B,LeetCode-Java,LC-091,Vanilla,1,0.1538
+CodeLlama-34B,LeetCode-Java,LC-091,FEGAR,1,0.3077
+CodeLlama-34B,LeetCode-Java,LC-092,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-092,FEGAR,1,0.3636
+CodeLlama-34B,LeetCode-Java,LC-093,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-093,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-094,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-094,FEGAR,1,0.6667
+CodeLlama-34B,LeetCode-Java,LC-095,Vanilla,1,0.5556
+CodeLlama-34B,LeetCode-Java,LC-095,FEGAR,1,0.5556
+CodeLlama-34B,LeetCode-Java,LC-096,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-096,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-097,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-097,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-098,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-098,FEGAR,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-099,Vanilla,1,0.9200
+CodeLlama-34B,LeetCode-Java,LC-099,FEGAR,1,0.9200
+CodeLlama-34B,LeetCode-Java,LC-100,Vanilla,0,0.0000
+CodeLlama-34B,LeetCode-Java,LC-100,FEGAR,1,0.9310
+Llama-3.3-70B,HumanEval-Java,HE-001,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-001,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-002,Vanilla,1,0.8571
+Llama-3.3-70B,HumanEval-Java,HE-002,FEGAR,1,0.8571
+Llama-3.3-70B,HumanEval-Java,HE-003,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-003,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-004,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-004,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-005,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-005,FEGAR,1,0.7857
+Llama-3.3-70B,HumanEval-Java,HE-006,Vanilla,1,0.8571
+Llama-3.3-70B,HumanEval-Java,HE-006,FEGAR,1,0.8571
+Llama-3.3-70B,HumanEval-Java,HE-007,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-007,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-008,Vanilla,1,0.6000
+Llama-3.3-70B,HumanEval-Java,HE-008,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-009,Vanilla,1,0.6333
+Llama-3.3-70B,HumanEval-Java,HE-009,FEGAR,1,0.5667
+Llama-3.3-70B,HumanEval-Java,HE-010,Vanilla,1,0.8636
+Llama-3.3-70B,HumanEval-Java,HE-010,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-011,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-011,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-012,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-012,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-013,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-013,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-014,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-014,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-015,Vanilla,1,0.9000
+Llama-3.3-70B,HumanEval-Java,HE-015,FEGAR,1,0.9000
+Llama-3.3-70B,HumanEval-Java,HE-016,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-016,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-017,Vanilla,1,0.6842
+Llama-3.3-70B,HumanEval-Java,HE-017,FEGAR,1,0.6316
+Llama-3.3-70B,HumanEval-Java,HE-018,Vanilla,1,0.7000
+Llama-3.3-70B,HumanEval-Java,HE-018,FEGAR,1,0.7500
+Llama-3.3-70B,HumanEval-Java,HE-019,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-019,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-020,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-020,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-021,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-021,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-022,Vanilla,1,0.7500
+Llama-3.3-70B,HumanEval-Java,HE-022,FEGAR,1,0.7500
+Llama-3.3-70B,HumanEval-Java,HE-023,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-023,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-024,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-024,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-025,Vanilla,1,0.8000
+Llama-3.3-70B,HumanEval-Java,HE-025,FEGAR,1,0.9000
+Llama-3.3-70B,HumanEval-Java,HE-026,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-026,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-027,Vanilla,1,0.8750
+Llama-3.3-70B,HumanEval-Java,HE-027,FEGAR,1,0.8750
+Llama-3.3-70B,HumanEval-Java,HE-028,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-028,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-029,Vanilla,1,0.8333
+Llama-3.3-70B,HumanEval-Java,HE-029,FEGAR,1,0.8333
+Llama-3.3-70B,HumanEval-Java,HE-030,Vanilla,1,0.9000
+Llama-3.3-70B,HumanEval-Java,HE-030,FEGAR,1,0.9000
+Llama-3.3-70B,HumanEval-Java,HE-031,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-031,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-032,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-032,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-033,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-033,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-034,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-034,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-035,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-035,FEGAR,1,0.9048
+Llama-3.3-70B,HumanEval-Java,HE-036,Vanilla,1,0.8462
+Llama-3.3-70B,HumanEval-Java,HE-036,FEGAR,1,0.9231
+Llama-3.3-70B,HumanEval-Java,HE-037,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-037,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-038,Vanilla,1,0.8000
+Llama-3.3-70B,HumanEval-Java,HE-038,FEGAR,1,0.8000
+Llama-3.3-70B,HumanEval-Java,HE-039,Vanilla,1,0.8500
+Llama-3.3-70B,HumanEval-Java,HE-039,FEGAR,1,0.9000
+Llama-3.3-70B,HumanEval-Java,HE-040,Vanilla,1,0.8750
+Llama-3.3-70B,HumanEval-Java,HE-040,FEGAR,1,0.8750
+Llama-3.3-70B,HumanEval-Java,HE-041,Vanilla,1,0.8667
+Llama-3.3-70B,HumanEval-Java,HE-041,FEGAR,1,0.9000
+Llama-3.3-70B,HumanEval-Java,HE-042,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-042,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-043,Vanilla,1,0.5625
+Llama-3.3-70B,HumanEval-Java,HE-043,FEGAR,1,0.5625
+Llama-3.3-70B,HumanEval-Java,HE-044,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-044,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-045,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-045,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-046,Vanilla,1,0.8571
+Llama-3.3-70B,HumanEval-Java,HE-046,FEGAR,1,0.8571
+Llama-3.3-70B,HumanEval-Java,HE-047,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-047,FEGAR,1,0.9333
+Llama-3.3-70B,HumanEval-Java,HE-048,Vanilla,1,0.9091
+Llama-3.3-70B,HumanEval-Java,HE-048,FEGAR,1,0.9091
+Llama-3.3-70B,HumanEval-Java,HE-049,Vanilla,1,0.8333
+Llama-3.3-70B,HumanEval-Java,HE-049,FEGAR,1,0.8333
+Llama-3.3-70B,HumanEval-Java,HE-050,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-050,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-051,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-051,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-052,Vanilla,1,0.9130
+Llama-3.3-70B,HumanEval-Java,HE-052,FEGAR,1,0.9130
+Llama-3.3-70B,HumanEval-Java,HE-053,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-053,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-054,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-054,FEGAR,1,0.9091
+Llama-3.3-70B,HumanEval-Java,HE-055,Vanilla,1,0.8333
+Llama-3.3-70B,HumanEval-Java,HE-055,FEGAR,1,0.8333
+Llama-3.3-70B,HumanEval-Java,HE-056,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-056,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-057,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-057,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-058,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-058,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-059,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-059,FEGAR,1,0.8667
+Llama-3.3-70B,HumanEval-Java,HE-060,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-060,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-061,Vanilla,1,0.8333
+Llama-3.3-70B,HumanEval-Java,HE-061,FEGAR,1,0.8333
+Llama-3.3-70B,HumanEval-Java,HE-062,Vanilla,1,0.8889
+Llama-3.3-70B,HumanEval-Java,HE-062,FEGAR,1,0.8889
+Llama-3.3-70B,HumanEval-Java,HE-063,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-063,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-064,Vanilla,1,0.8750
+Llama-3.3-70B,HumanEval-Java,HE-064,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-065,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-065,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-066,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-066,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-067,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-067,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-068,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-068,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-069,Vanilla,1,0.8333
+Llama-3.3-70B,HumanEval-Java,HE-069,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-070,Vanilla,1,0.9375
+Llama-3.3-70B,HumanEval-Java,HE-070,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-071,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-071,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-072,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-072,FEGAR,1,0.9091
+Llama-3.3-70B,HumanEval-Java,HE-073,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-073,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-074,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-074,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-075,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-075,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-076,Vanilla,1,0.8182
+Llama-3.3-70B,HumanEval-Java,HE-076,FEGAR,1,0.9091
+Llama-3.3-70B,HumanEval-Java,HE-077,Vanilla,1,0.8947
+Llama-3.3-70B,HumanEval-Java,HE-077,FEGAR,1,0.9474
+Llama-3.3-70B,HumanEval-Java,HE-078,Vanilla,1,0.8462
+Llama-3.3-70B,HumanEval-Java,HE-078,FEGAR,1,0.8462
+Llama-3.3-70B,HumanEval-Java,HE-079,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-079,FEGAR,1,0.9474
+Llama-3.3-70B,HumanEval-Java,HE-080,Vanilla,1,0.8182
+Llama-3.3-70B,HumanEval-Java,HE-080,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-081,Vanilla,1,0.9167
+Llama-3.3-70B,HumanEval-Java,HE-081,FEGAR,1,0.9167
+Llama-3.3-70B,HumanEval-Java,HE-082,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-082,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-083,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-083,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-084,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-084,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-085,Vanilla,1,0.9231
+Llama-3.3-70B,HumanEval-Java,HE-085,FEGAR,1,0.9231
+Llama-3.3-70B,HumanEval-Java,HE-086,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-086,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-087,Vanilla,1,0.2500
+Llama-3.3-70B,HumanEval-Java,HE-087,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-088,Vanilla,1,0.8333
+Llama-3.3-70B,HumanEval-Java,HE-088,FEGAR,1,0.8333
+Llama-3.3-70B,HumanEval-Java,HE-089,Vanilla,1,0.6154
+Llama-3.3-70B,HumanEval-Java,HE-089,FEGAR,1,0.9231
+Llama-3.3-70B,HumanEval-Java,HE-090,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-090,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-091,Vanilla,1,0.8750
+Llama-3.3-70B,HumanEval-Java,HE-091,FEGAR,1,0.8750
+Llama-3.3-70B,HumanEval-Java,HE-092,Vanilla,1,0.6667
+Llama-3.3-70B,HumanEval-Java,HE-092,FEGAR,1,0.6667
+Llama-3.3-70B,HumanEval-Java,HE-093,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-093,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-094,Vanilla,1,0.8333
+Llama-3.3-70B,HumanEval-Java,HE-094,FEGAR,1,0.8333
+Llama-3.3-70B,HumanEval-Java,HE-095,Vanilla,1,0.9091
+Llama-3.3-70B,HumanEval-Java,HE-095,FEGAR,1,0.9091
+Llama-3.3-70B,HumanEval-Java,HE-096,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-096,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-097,Vanilla,1,0.7692
+Llama-3.3-70B,HumanEval-Java,HE-097,FEGAR,1,0.7692
+Llama-3.3-70B,HumanEval-Java,HE-098,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-098,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-099,Vanilla,1,0.8571
+Llama-3.3-70B,HumanEval-Java,HE-099,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-100,Vanilla,1,0.8000
+Llama-3.3-70B,HumanEval-Java,HE-100,FEGAR,1,0.8000
+Llama-3.3-70B,HumanEval-Java,HE-101,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-101,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-102,Vanilla,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-102,FEGAR,1,1.0000
+Llama-3.3-70B,HumanEval-Java,HE-103,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-103,FEGAR,1,0.6667
+Llama-3.3-70B,HumanEval-Java,HE-104,Vanilla,0,0.0000
+Llama-3.3-70B,HumanEval-Java,HE-104,FEGAR,1,0.8000
+Llama-3.3-70B,LeetCode-Java,LC-001,Vanilla,1,0.8235
+Llama-3.3-70B,LeetCode-Java,LC-001,FEGAR,1,0.8824
+Llama-3.3-70B,LeetCode-Java,LC-002,Vanilla,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-002,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-003,Vanilla,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-003,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-004,Vanilla,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-004,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-005,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-005,FEGAR,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-006,Vanilla,1,0.7500
+Llama-3.3-70B,LeetCode-Java,LC-006,FEGAR,1,0.8750
+Llama-3.3-70B,LeetCode-Java,LC-007,Vanilla,1,0.9167
+Llama-3.3-70B,LeetCode-Java,LC-007,FEGAR,1,0.9167
+Llama-3.3-70B,LeetCode-Java,LC-008,Vanilla,1,0.9286
+Llama-3.3-70B,LeetCode-Java,LC-008,FEGAR,1,0.9286
+Llama-3.3-70B,LeetCode-Java,LC-009,Vanilla,1,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-009,FEGAR,1,0.9167
+Llama-3.3-70B,LeetCode-Java,LC-010,Vanilla,1,0.5909
+Llama-3.3-70B,LeetCode-Java,LC-010,FEGAR,1,0.6818
+Llama-3.3-70B,LeetCode-Java,LC-011,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-011,FEGAR,1,0.8824
+Llama-3.3-70B,LeetCode-Java,LC-012,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-012,FEGAR,1,0.8571
+Llama-3.3-70B,LeetCode-Java,LC-013,Vanilla,1,0.7000
+Llama-3.3-70B,LeetCode-Java,LC-013,FEGAR,1,0.9500
+Llama-3.3-70B,LeetCode-Java,LC-014,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-014,FEGAR,1,0.9000
+Llama-3.3-70B,LeetCode-Java,LC-015,Vanilla,1,0.8235
+Llama-3.3-70B,LeetCode-Java,LC-015,FEGAR,1,0.8235
+Llama-3.3-70B,LeetCode-Java,LC-016,Vanilla,1,0.8750
+Llama-3.3-70B,LeetCode-Java,LC-016,FEGAR,1,0.8750
+Llama-3.3-70B,LeetCode-Java,LC-017,Vanilla,1,0.8750
+Llama-3.3-70B,LeetCode-Java,LC-017,FEGAR,1,0.9583
+Llama-3.3-70B,LeetCode-Java,LC-018,Vanilla,1,0.3000
+Llama-3.3-70B,LeetCode-Java,LC-018,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-019,Vanilla,1,0.8077
+Llama-3.3-70B,LeetCode-Java,LC-019,FEGAR,1,0.8077
+Llama-3.3-70B,LeetCode-Java,LC-020,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-020,FEGAR,1,0.7059
+Llama-3.3-70B,LeetCode-Java,LC-021,Vanilla,1,0.2353
+Llama-3.3-70B,LeetCode-Java,LC-021,FEGAR,1,0.8235
+Llama-3.3-70B,LeetCode-Java,LC-022,Vanilla,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-022,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-023,Vanilla,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-023,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-024,Vanilla,1,0.9200
+Llama-3.3-70B,LeetCode-Java,LC-024,FEGAR,1,0.9200
+Llama-3.3-70B,LeetCode-Java,LC-025,Vanilla,1,0.8182
+Llama-3.3-70B,LeetCode-Java,LC-025,FEGAR,1,0.8182
+Llama-3.3-70B,LeetCode-Java,LC-026,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-026,FEGAR,1,0.7857
+Llama-3.3-70B,LeetCode-Java,LC-027,Vanilla,1,0.8571
+Llama-3.3-70B,LeetCode-Java,LC-027,FEGAR,1,0.9286
+Llama-3.3-70B,LeetCode-Java,LC-028,Vanilla,1,0.6250
+Llama-3.3-70B,LeetCode-Java,LC-028,FEGAR,1,0.7500
+Llama-3.3-70B,LeetCode-Java,LC-029,Vanilla,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-029,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-030,Vanilla,1,0.3529
+Llama-3.3-70B,LeetCode-Java,LC-030,FEGAR,1,0.3529
+Llama-3.3-70B,LeetCode-Java,LC-031,Vanilla,1,0.6250
+Llama-3.3-70B,LeetCode-Java,LC-031,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-032,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-032,FEGAR,1,0.9600
+Llama-3.3-70B,LeetCode-Java,LC-033,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-033,FEGAR,1,0.7692
+Llama-3.3-70B,LeetCode-Java,LC-034,Vanilla,1,0.8696
+Llama-3.3-70B,LeetCode-Java,LC-034,FEGAR,1,0.8696
+Llama-3.3-70B,LeetCode-Java,LC-035,Vanilla,1,0.7500
+Llama-3.3-70B,LeetCode-Java,LC-035,FEGAR,1,0.7500
+Llama-3.3-70B,LeetCode-Java,LC-036,Vanilla,1,0.8750
+Llama-3.3-70B,LeetCode-Java,LC-036,FEGAR,1,0.9583
+Llama-3.3-70B,LeetCode-Java,LC-037,Vanilla,1,0.8095
+Llama-3.3-70B,LeetCode-Java,LC-037,FEGAR,1,0.8095
+Llama-3.3-70B,LeetCode-Java,LC-038,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-038,FEGAR,1,0.8649
+Llama-3.3-70B,LeetCode-Java,LC-039,Vanilla,1,0.0455
+Llama-3.3-70B,LeetCode-Java,LC-039,FEGAR,1,0.9091
+Llama-3.3-70B,LeetCode-Java,LC-040,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-040,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-041,Vanilla,1,0.9286
+Llama-3.3-70B,LeetCode-Java,LC-041,FEGAR,1,0.9286
+Llama-3.3-70B,LeetCode-Java,LC-042,Vanilla,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-042,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-043,Vanilla,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-043,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-044,Vanilla,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-044,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-045,Vanilla,1,0.8750
+Llama-3.3-70B,LeetCode-Java,LC-045,FEGAR,1,0.7500
+Llama-3.3-70B,LeetCode-Java,LC-046,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-046,FEGAR,1,0.5366
+Llama-3.3-70B,LeetCode-Java,LC-047,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-047,FEGAR,1,0.7500
+Llama-3.3-70B,LeetCode-Java,LC-048,Vanilla,1,0.9778
+Llama-3.3-70B,LeetCode-Java,LC-048,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-049,Vanilla,1,0.9474
+Llama-3.3-70B,LeetCode-Java,LC-049,FEGAR,1,0.9474
+Llama-3.3-70B,LeetCode-Java,LC-050,Vanilla,1,0.5000
+Llama-3.3-70B,LeetCode-Java,LC-050,FEGAR,1,0.7500
+Llama-3.3-70B,LeetCode-Java,LC-051,Vanilla,1,0.2759
+Llama-3.3-70B,LeetCode-Java,LC-051,FEGAR,1,0.8621
+Llama-3.3-70B,LeetCode-Java,LC-052,Vanilla,1,0.9333
+Llama-3.3-70B,LeetCode-Java,LC-052,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-053,Vanilla,1,0.9091
+Llama-3.3-70B,LeetCode-Java,LC-053,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-054,Vanilla,1,0.9310
+Llama-3.3-70B,LeetCode-Java,LC-054,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-055,Vanilla,1,0.7857
+Llama-3.3-70B,LeetCode-Java,LC-055,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-056,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-056,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-057,Vanilla,1,0.3077
+Llama-3.3-70B,LeetCode-Java,LC-057,FEGAR,1,0.9231
+Llama-3.3-70B,LeetCode-Java,LC-058,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-058,FEGAR,1,0.9474
+Llama-3.3-70B,LeetCode-Java,LC-059,Vanilla,1,0.7500
+Llama-3.3-70B,LeetCode-Java,LC-059,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-060,Vanilla,1,0.8800
+Llama-3.3-70B,LeetCode-Java,LC-060,FEGAR,1,0.8800
+Llama-3.3-70B,LeetCode-Java,LC-061,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-061,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-062,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-062,FEGAR,1,0.8636
+Llama-3.3-70B,LeetCode-Java,LC-063,Vanilla,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-063,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-064,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-064,FEGAR,1,0.6000
+Llama-3.3-70B,LeetCode-Java,LC-065,Vanilla,1,0.6207
+Llama-3.3-70B,LeetCode-Java,LC-065,FEGAR,1,0.8621
+Llama-3.3-70B,LeetCode-Java,LC-066,Vanilla,1,0.2703
+Llama-3.3-70B,LeetCode-Java,LC-066,FEGAR,1,0.8649
+Llama-3.3-70B,LeetCode-Java,LC-067,Vanilla,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-067,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-068,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-068,FEGAR,1,0.7895
+Llama-3.3-70B,LeetCode-Java,LC-069,Vanilla,1,0.9524
+Llama-3.3-70B,LeetCode-Java,LC-069,FEGAR,1,0.9524
+Llama-3.3-70B,LeetCode-Java,LC-070,Vanilla,1,0.7200
+Llama-3.3-70B,LeetCode-Java,LC-070,FEGAR,1,0.7600
+Llama-3.3-70B,LeetCode-Java,LC-071,Vanilla,1,0.9375
+Llama-3.3-70B,LeetCode-Java,LC-071,FEGAR,1,0.9375
+Llama-3.3-70B,LeetCode-Java,LC-072,Vanilla,1,0.8571
+Llama-3.3-70B,LeetCode-Java,LC-072,FEGAR,1,0.9048
+Llama-3.3-70B,LeetCode-Java,LC-073,Vanilla,1,0.0455
+Llama-3.3-70B,LeetCode-Java,LC-073,FEGAR,1,0.8636
+Llama-3.3-70B,LeetCode-Java,LC-074,Vanilla,1,0.3750
+Llama-3.3-70B,LeetCode-Java,LC-074,FEGAR,1,0.9375
+Llama-3.3-70B,LeetCode-Java,LC-075,Vanilla,1,0.9048
+Llama-3.3-70B,LeetCode-Java,LC-075,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-076,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-076,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-077,Vanilla,1,0.2778
+Llama-3.3-70B,LeetCode-Java,LC-077,FEGAR,1,0.8889
+Llama-3.3-70B,LeetCode-Java,LC-078,Vanilla,1,0.8800
+Llama-3.3-70B,LeetCode-Java,LC-078,FEGAR,1,0.8800
+Llama-3.3-70B,LeetCode-Java,LC-079,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-079,FEGAR,1,0.7368
+Llama-3.3-70B,LeetCode-Java,LC-080,Vanilla,1,0.7727
+Llama-3.3-70B,LeetCode-Java,LC-080,FEGAR,1,0.7727
+Llama-3.3-70B,LeetCode-Java,LC-081,Vanilla,1,0.9167
+Llama-3.3-70B,LeetCode-Java,LC-081,FEGAR,1,0.9167
+Llama-3.3-70B,LeetCode-Java,LC-082,Vanilla,1,0.9000
+Llama-3.3-70B,LeetCode-Java,LC-082,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-083,Vanilla,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-083,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-084,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-084,FEGAR,1,0.7292
+Llama-3.3-70B,LeetCode-Java,LC-085,Vanilla,1,0.8333
+Llama-3.3-70B,LeetCode-Java,LC-085,FEGAR,1,0.9167
+Llama-3.3-70B,LeetCode-Java,LC-086,Vanilla,1,0.7143
+Llama-3.3-70B,LeetCode-Java,LC-086,FEGAR,1,0.8571
+Llama-3.3-70B,LeetCode-Java,LC-087,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-087,FEGAR,1,0.9667
+Llama-3.3-70B,LeetCode-Java,LC-088,Vanilla,1,0.8824
+Llama-3.3-70B,LeetCode-Java,LC-088,FEGAR,1,0.8824
+Llama-3.3-70B,LeetCode-Java,LC-089,Vanilla,1,0.8667
+Llama-3.3-70B,LeetCode-Java,LC-089,FEGAR,1,0.9333
+Llama-3.3-70B,LeetCode-Java,LC-090,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-090,FEGAR,1,0.7778
+Llama-3.3-70B,LeetCode-Java,LC-091,Vanilla,1,0.6154
+Llama-3.3-70B,LeetCode-Java,LC-091,FEGAR,1,0.8462
+Llama-3.3-70B,LeetCode-Java,LC-092,Vanilla,1,0.8182
+Llama-3.3-70B,LeetCode-Java,LC-092,FEGAR,1,0.8636
+Llama-3.3-70B,LeetCode-Java,LC-093,Vanilla,1,0.7857
+Llama-3.3-70B,LeetCode-Java,LC-093,FEGAR,1,0.8571
+Llama-3.3-70B,LeetCode-Java,LC-094,Vanilla,1,0.5714
+Llama-3.3-70B,LeetCode-Java,LC-094,FEGAR,1,0.6190
+Llama-3.3-70B,LeetCode-Java,LC-095,Vanilla,1,0.5556
+Llama-3.3-70B,LeetCode-Java,LC-095,FEGAR,1,0.6667
+Llama-3.3-70B,LeetCode-Java,LC-096,Vanilla,1,0.7619
+Llama-3.3-70B,LeetCode-Java,LC-096,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-097,Vanilla,0,0.0000
+Llama-3.3-70B,LeetCode-Java,LC-097,FEGAR,1,0.7059
+Llama-3.3-70B,LeetCode-Java,LC-098,Vanilla,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-098,FEGAR,1,1.0000
+Llama-3.3-70B,LeetCode-Java,LC-099,Vanilla,1,0.9200
+Llama-3.3-70B,LeetCode-Java,LC-099,FEGAR,1,0.9200
+Llama-3.3-70B,LeetCode-Java,LC-100,Vanilla,1,0.9310
+Llama-3.3-70B,LeetCode-Java,LC-100,FEGAR,1,0.9310
+Claude Sonnet 5,HumanEval-Java,HE-001,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-001,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-002,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-002,FEGAR,1,0.8571
+Claude Sonnet 5,HumanEval-Java,HE-003,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-003,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-004,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-004,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-005,Vanilla,1,0.7857
+Claude Sonnet 5,HumanEval-Java,HE-005,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-006,Vanilla,1,0.8571
+Claude Sonnet 5,HumanEval-Java,HE-006,FEGAR,1,0.8571
+Claude Sonnet 5,HumanEval-Java,HE-007,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-007,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-008,Vanilla,1,0.8400
+Claude Sonnet 5,HumanEval-Java,HE-008,FEGAR,1,0.9200
+Claude Sonnet 5,HumanEval-Java,HE-009,Vanilla,1,0.8000
+Claude Sonnet 5,HumanEval-Java,HE-009,FEGAR,1,0.8667
+Claude Sonnet 5,HumanEval-Java,HE-010,Vanilla,1,0.9545
+Claude Sonnet 5,HumanEval-Java,HE-010,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-011,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-011,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-012,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-012,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-013,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-013,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-014,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-014,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-015,Vanilla,1,0.9000
+Claude Sonnet 5,HumanEval-Java,HE-015,FEGAR,1,0.9000
+Claude Sonnet 5,HumanEval-Java,HE-016,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-016,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-017,Vanilla,1,0.6842
+Claude Sonnet 5,HumanEval-Java,HE-017,FEGAR,1,0.8421
+Claude Sonnet 5,HumanEval-Java,HE-018,Vanilla,1,0.8000
+Claude Sonnet 5,HumanEval-Java,HE-018,FEGAR,1,0.9500
+Claude Sonnet 5,HumanEval-Java,HE-019,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-019,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-020,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-020,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-021,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-021,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-022,Vanilla,1,0.7500
+Claude Sonnet 5,HumanEval-Java,HE-022,FEGAR,1,0.7500
+Claude Sonnet 5,HumanEval-Java,HE-023,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-023,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-024,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-024,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-025,Vanilla,1,0.9000
+Claude Sonnet 5,HumanEval-Java,HE-025,FEGAR,1,0.9000
+Claude Sonnet 5,HumanEval-Java,HE-026,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-026,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-027,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-027,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-028,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-028,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-029,Vanilla,1,0.8333
+Claude Sonnet 5,HumanEval-Java,HE-029,FEGAR,1,0.8333
+Claude Sonnet 5,HumanEval-Java,HE-030,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-030,FEGAR,1,0.9000
+Claude Sonnet 5,HumanEval-Java,HE-031,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-031,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-032,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-032,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-033,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-033,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-034,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-034,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-035,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-035,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-036,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-036,FEGAR,1,0.9231
+Claude Sonnet 5,HumanEval-Java,HE-037,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-037,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-038,Vanilla,1,0.8000
+Claude Sonnet 5,HumanEval-Java,HE-038,FEGAR,1,0.8000
+Claude Sonnet 5,HumanEval-Java,HE-039,Vanilla,1,0.8500
+Claude Sonnet 5,HumanEval-Java,HE-039,FEGAR,1,0.9000
+Claude Sonnet 5,HumanEval-Java,HE-040,Vanilla,1,0.8750
+Claude Sonnet 5,HumanEval-Java,HE-040,FEGAR,1,0.8750
+Claude Sonnet 5,HumanEval-Java,HE-041,Vanilla,1,0.8667
+Claude Sonnet 5,HumanEval-Java,HE-041,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-042,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-042,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-043,Vanilla,1,0.8750
+Claude Sonnet 5,HumanEval-Java,HE-043,FEGAR,1,0.8750
+Claude Sonnet 5,HumanEval-Java,HE-044,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-044,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-045,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-045,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-046,Vanilla,1,0.8571
+Claude Sonnet 5,HumanEval-Java,HE-046,FEGAR,1,0.8571
+Claude Sonnet 5,HumanEval-Java,HE-047,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-047,FEGAR,1,0.9333
+Claude Sonnet 5,HumanEval-Java,HE-048,Vanilla,1,0.9091
+Claude Sonnet 5,HumanEval-Java,HE-048,FEGAR,1,0.9091
+Claude Sonnet 5,HumanEval-Java,HE-049,Vanilla,1,0.9167
+Claude Sonnet 5,HumanEval-Java,HE-049,FEGAR,1,0.9167
+Claude Sonnet 5,HumanEval-Java,HE-050,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-050,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-051,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-051,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-052,Vanilla,1,0.9130
+Claude Sonnet 5,HumanEval-Java,HE-052,FEGAR,1,0.9130
+Claude Sonnet 5,HumanEval-Java,HE-053,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-053,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-054,Vanilla,1,0.9091
+Claude Sonnet 5,HumanEval-Java,HE-054,FEGAR,1,0.9091
+Claude Sonnet 5,HumanEval-Java,HE-055,Vanilla,1,0.9167
+Claude Sonnet 5,HumanEval-Java,HE-055,FEGAR,1,0.9167
+Claude Sonnet 5,HumanEval-Java,HE-056,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-056,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-057,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-057,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-058,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-058,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-059,Vanilla,1,0.8000
+Claude Sonnet 5,HumanEval-Java,HE-059,FEGAR,1,0.8667
+Claude Sonnet 5,HumanEval-Java,HE-060,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-060,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-061,Vanilla,1,0.8333
+Claude Sonnet 5,HumanEval-Java,HE-061,FEGAR,1,0.9167
+Claude Sonnet 5,HumanEval-Java,HE-062,Vanilla,1,0.8889
+Claude Sonnet 5,HumanEval-Java,HE-062,FEGAR,1,0.8889
+Claude Sonnet 5,HumanEval-Java,HE-063,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-063,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-064,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-064,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-065,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-065,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-066,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-066,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-067,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-067,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-068,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-068,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-069,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-069,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-070,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-070,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-071,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-071,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-072,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-072,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-073,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-073,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-074,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-074,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-075,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-075,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-076,Vanilla,1,0.8182
+Claude Sonnet 5,HumanEval-Java,HE-076,FEGAR,1,0.9091
+Claude Sonnet 5,HumanEval-Java,HE-077,Vanilla,1,0.9474
+Claude Sonnet 5,HumanEval-Java,HE-077,FEGAR,1,0.9474
+Claude Sonnet 5,HumanEval-Java,HE-078,Vanilla,1,0.8462
+Claude Sonnet 5,HumanEval-Java,HE-078,FEGAR,1,0.8462
+Claude Sonnet 5,HumanEval-Java,HE-079,Vanilla,1,0.9474
+Claude Sonnet 5,HumanEval-Java,HE-079,FEGAR,1,0.9474
+Claude Sonnet 5,HumanEval-Java,HE-080,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-080,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-081,Vanilla,1,0.9167
+Claude Sonnet 5,HumanEval-Java,HE-081,FEGAR,1,0.9167
+Claude Sonnet 5,HumanEval-Java,HE-082,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-082,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-083,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-083,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-084,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-084,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-085,Vanilla,1,0.9231
+Claude Sonnet 5,HumanEval-Java,HE-085,FEGAR,1,0.9231
+Claude Sonnet 5,HumanEval-Java,HE-086,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-086,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-087,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-087,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-088,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-088,FEGAR,1,0.8333
+Claude Sonnet 5,HumanEval-Java,HE-089,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-089,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-090,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-090,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-091,Vanilla,1,0.8750
+Claude Sonnet 5,HumanEval-Java,HE-091,FEGAR,1,0.8750
+Claude Sonnet 5,HumanEval-Java,HE-092,Vanilla,1,0.6667
+Claude Sonnet 5,HumanEval-Java,HE-092,FEGAR,1,0.6667
+Claude Sonnet 5,HumanEval-Java,HE-093,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-093,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-094,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-094,FEGAR,1,0.8333
+Claude Sonnet 5,HumanEval-Java,HE-095,Vanilla,1,0.9091
+Claude Sonnet 5,HumanEval-Java,HE-095,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-096,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-096,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-097,Vanilla,1,0.7692
+Claude Sonnet 5,HumanEval-Java,HE-097,FEGAR,1,0.7692
+Claude Sonnet 5,HumanEval-Java,HE-098,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-098,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-099,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-099,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-100,Vanilla,1,0.8000
+Claude Sonnet 5,HumanEval-Java,HE-100,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-101,Vanilla,0,0.0000
+Claude Sonnet 5,HumanEval-Java,HE-101,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-102,Vanilla,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-102,FEGAR,1,1.0000
+Claude Sonnet 5,HumanEval-Java,HE-103,Vanilla,1,0.6667
+Claude Sonnet 5,HumanEval-Java,HE-103,FEGAR,1,0.6667
+Claude Sonnet 5,HumanEval-Java,HE-104,Vanilla,1,0.8000
+Claude Sonnet 5,HumanEval-Java,HE-104,FEGAR,1,0.8000
+Claude Sonnet 5,LeetCode-Java,LC-001,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-001,FEGAR,1,0.8824
+Claude Sonnet 5,LeetCode-Java,LC-002,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-002,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-003,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-003,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-004,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-004,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-005,Vanilla,1,0.8333
+Claude Sonnet 5,LeetCode-Java,LC-005,FEGAR,1,0.8333
+Claude Sonnet 5,LeetCode-Java,LC-006,Vanilla,1,0.8750
+Claude Sonnet 5,LeetCode-Java,LC-006,FEGAR,1,0.9375
+Claude Sonnet 5,LeetCode-Java,LC-007,Vanilla,1,0.9167
+Claude Sonnet 5,LeetCode-Java,LC-007,FEGAR,1,0.9167
+Claude Sonnet 5,LeetCode-Java,LC-008,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-008,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-009,Vanilla,1,0.9167
+Claude Sonnet 5,LeetCode-Java,LC-009,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-010,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-010,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-011,Vanilla,1,0.9412
+Claude Sonnet 5,LeetCode-Java,LC-011,FEGAR,1,0.8824
+Claude Sonnet 5,LeetCode-Java,LC-012,Vanilla,1,0.8571
+Claude Sonnet 5,LeetCode-Java,LC-012,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-013,Vanilla,1,0.8500
+Claude Sonnet 5,LeetCode-Java,LC-013,FEGAR,1,0.9500
+Claude Sonnet 5,LeetCode-Java,LC-014,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-014,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-015,Vanilla,1,0.8235
+Claude Sonnet 5,LeetCode-Java,LC-015,FEGAR,1,0.8235
+Claude Sonnet 5,LeetCode-Java,LC-016,Vanilla,1,0.8750
+Claude Sonnet 5,LeetCode-Java,LC-016,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-017,Vanilla,1,0.9583
+Claude Sonnet 5,LeetCode-Java,LC-017,FEGAR,1,0.9583
+Claude Sonnet 5,LeetCode-Java,LC-018,Vanilla,1,0.5000
+Claude Sonnet 5,LeetCode-Java,LC-018,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-019,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-019,FEGAR,1,0.8462
+Claude Sonnet 5,LeetCode-Java,LC-020,Vanilla,1,0.6471
+Claude Sonnet 5,LeetCode-Java,LC-020,FEGAR,1,0.6471
+Claude Sonnet 5,LeetCode-Java,LC-021,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-021,FEGAR,1,0.8235
+Claude Sonnet 5,LeetCode-Java,LC-022,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-022,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-023,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-023,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-024,Vanilla,1,0.9200
+Claude Sonnet 5,LeetCode-Java,LC-024,FEGAR,1,0.9600
+Claude Sonnet 5,LeetCode-Java,LC-025,Vanilla,1,0.8182
+Claude Sonnet 5,LeetCode-Java,LC-025,FEGAR,1,0.8182
+Claude Sonnet 5,LeetCode-Java,LC-026,Vanilla,1,0.7143
+Claude Sonnet 5,LeetCode-Java,LC-026,FEGAR,1,0.7143
+Claude Sonnet 5,LeetCode-Java,LC-027,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-027,FEGAR,1,0.9286
+Claude Sonnet 5,LeetCode-Java,LC-028,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-028,FEGAR,1,0.7500
+Claude Sonnet 5,LeetCode-Java,LC-029,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-029,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-030,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-030,FEGAR,1,0.3529
+Claude Sonnet 5,LeetCode-Java,LC-031,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-031,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-032,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-032,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-033,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-033,FEGAR,1,0.7692
+Claude Sonnet 5,LeetCode-Java,LC-034,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-034,FEGAR,1,0.6957
+Claude Sonnet 5,LeetCode-Java,LC-035,Vanilla,1,0.8500
+Claude Sonnet 5,LeetCode-Java,LC-035,FEGAR,1,0.6500
+Claude Sonnet 5,LeetCode-Java,LC-036,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-036,FEGAR,1,0.9583
+Claude Sonnet 5,LeetCode-Java,LC-037,Vanilla,1,0.9524
+Claude Sonnet 5,LeetCode-Java,LC-037,FEGAR,1,0.9524
+Claude Sonnet 5,LeetCode-Java,LC-038,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-038,FEGAR,1,0.8108
+Claude Sonnet 5,LeetCode-Java,LC-039,Vanilla,1,0.6818
+Claude Sonnet 5,LeetCode-Java,LC-039,FEGAR,1,0.9091
+Claude Sonnet 5,LeetCode-Java,LC-040,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-040,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-041,Vanilla,1,0.9286
+Claude Sonnet 5,LeetCode-Java,LC-041,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-042,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-042,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-043,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-043,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-044,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-044,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-045,Vanilla,1,0.8750
+Claude Sonnet 5,LeetCode-Java,LC-045,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-046,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-046,FEGAR,1,0.8049
+Claude Sonnet 5,LeetCode-Java,LC-047,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-047,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-048,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-048,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-049,Vanilla,1,0.9474
+Claude Sonnet 5,LeetCode-Java,LC-049,FEGAR,1,0.9474
+Claude Sonnet 5,LeetCode-Java,LC-050,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-050,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-051,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-051,FEGAR,1,0.8966
+Claude Sonnet 5,LeetCode-Java,LC-052,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-052,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-053,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-053,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-054,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-054,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-055,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-055,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-056,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-056,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-057,Vanilla,1,0.9231
+Claude Sonnet 5,LeetCode-Java,LC-057,FEGAR,1,0.9231
+Claude Sonnet 5,LeetCode-Java,LC-058,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-058,FEGAR,1,0.9211
+Claude Sonnet 5,LeetCode-Java,LC-059,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-059,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-060,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-060,FEGAR,1,0.9200
+Claude Sonnet 5,LeetCode-Java,LC-061,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-061,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-062,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-062,FEGAR,1,0.9545
+Claude Sonnet 5,LeetCode-Java,LC-063,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-063,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-064,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-064,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-065,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-065,FEGAR,1,0.8621
+Claude Sonnet 5,LeetCode-Java,LC-066,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-066,FEGAR,1,0.8378
+Claude Sonnet 5,LeetCode-Java,LC-067,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-067,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-068,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-068,FEGAR,1,0.8421
+Claude Sonnet 5,LeetCode-Java,LC-069,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-069,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-070,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-070,FEGAR,1,0.7200
+Claude Sonnet 5,LeetCode-Java,LC-071,Vanilla,1,0.9375
+Claude Sonnet 5,LeetCode-Java,LC-071,FEGAR,1,0.9375
+Claude Sonnet 5,LeetCode-Java,LC-072,Vanilla,1,0.9048
+Claude Sonnet 5,LeetCode-Java,LC-072,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-073,Vanilla,1,0.7727
+Claude Sonnet 5,LeetCode-Java,LC-073,FEGAR,1,0.7273
+Claude Sonnet 5,LeetCode-Java,LC-074,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-074,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-075,Vanilla,1,0.9048
+Claude Sonnet 5,LeetCode-Java,LC-075,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-076,Vanilla,1,0.7500
+Claude Sonnet 5,LeetCode-Java,LC-076,FEGAR,1,0.7500
+Claude Sonnet 5,LeetCode-Java,LC-077,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-077,FEGAR,1,0.9444
+Claude Sonnet 5,LeetCode-Java,LC-078,Vanilla,1,0.9200
+Claude Sonnet 5,LeetCode-Java,LC-078,FEGAR,1,0.8800
+Claude Sonnet 5,LeetCode-Java,LC-079,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-079,FEGAR,1,0.9474
+Claude Sonnet 5,LeetCode-Java,LC-080,Vanilla,1,0.7727
+Claude Sonnet 5,LeetCode-Java,LC-080,FEGAR,1,0.8182
+Claude Sonnet 5,LeetCode-Java,LC-081,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-081,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-082,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-082,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-083,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-083,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-084,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-084,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-085,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-085,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-086,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-086,FEGAR,1,0.8571
+Claude Sonnet 5,LeetCode-Java,LC-087,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-087,FEGAR,1,0.9667
+Claude Sonnet 5,LeetCode-Java,LC-088,Vanilla,1,0.8824
+Claude Sonnet 5,LeetCode-Java,LC-088,FEGAR,1,0.8824
+Claude Sonnet 5,LeetCode-Java,LC-089,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-089,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-090,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-090,FEGAR,1,0.9444
+Claude Sonnet 5,LeetCode-Java,LC-091,Vanilla,1,0.6154
+Claude Sonnet 5,LeetCode-Java,LC-091,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-092,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-092,FEGAR,1,0.9091
+Claude Sonnet 5,LeetCode-Java,LC-093,Vanilla,1,0.9286
+Claude Sonnet 5,LeetCode-Java,LC-093,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-094,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-094,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-095,Vanilla,1,0.8889
+Claude Sonnet 5,LeetCode-Java,LC-095,FEGAR,1,0.8889
+Claude Sonnet 5,LeetCode-Java,LC-096,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-096,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-097,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-097,FEGAR,1,0.8235
+Claude Sonnet 5,LeetCode-Java,LC-098,Vanilla,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-098,FEGAR,1,1.0000
+Claude Sonnet 5,LeetCode-Java,LC-099,Vanilla,1,0.9200
+Claude Sonnet 5,LeetCode-Java,LC-099,FEGAR,1,0.9600
+Claude Sonnet 5,LeetCode-Java,LC-100,Vanilla,0,0.0000
+Claude Sonnet 5,LeetCode-Java,LC-100,FEGAR,1,0.9655
+GPT-5.6 Sol,HumanEval-Java,HE-001,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-001,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-002,Vanilla,1,0.8571
+GPT-5.6 Sol,HumanEval-Java,HE-002,FEGAR,1,0.8571
+GPT-5.6 Sol,HumanEval-Java,HE-003,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-003,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-004,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-004,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-005,Vanilla,1,0.7857
+GPT-5.6 Sol,HumanEval-Java,HE-005,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-006,Vanilla,1,0.8571
+GPT-5.6 Sol,HumanEval-Java,HE-006,FEGAR,1,0.8571
+GPT-5.6 Sol,HumanEval-Java,HE-007,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-007,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-008,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-008,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-009,Vanilla,1,0.8333
+GPT-5.6 Sol,HumanEval-Java,HE-009,FEGAR,1,0.8333
+GPT-5.6 Sol,HumanEval-Java,HE-010,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-010,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-011,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-011,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-012,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-012,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-013,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-013,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-014,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-014,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-015,Vanilla,1,0.9000
+GPT-5.6 Sol,HumanEval-Java,HE-015,FEGAR,1,0.9000
+GPT-5.6 Sol,HumanEval-Java,HE-016,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-016,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-017,Vanilla,1,0.7895
+GPT-5.6 Sol,HumanEval-Java,HE-017,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-018,Vanilla,1,0.9500
+GPT-5.6 Sol,HumanEval-Java,HE-018,FEGAR,1,0.9500
+GPT-5.6 Sol,HumanEval-Java,HE-019,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-019,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-020,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-020,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-021,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-021,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-022,Vanilla,1,0.7500
+GPT-5.6 Sol,HumanEval-Java,HE-022,FEGAR,1,0.7500
+GPT-5.6 Sol,HumanEval-Java,HE-023,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-023,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-024,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-024,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-025,Vanilla,1,0.9000
+GPT-5.6 Sol,HumanEval-Java,HE-025,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-026,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-026,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-027,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-027,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-028,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-028,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-029,Vanilla,1,0.8333
+GPT-5.6 Sol,HumanEval-Java,HE-029,FEGAR,1,0.8333
+GPT-5.6 Sol,HumanEval-Java,HE-030,Vanilla,1,0.9000
+GPT-5.6 Sol,HumanEval-Java,HE-030,FEGAR,1,0.9000
+GPT-5.6 Sol,HumanEval-Java,HE-031,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-031,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-032,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-032,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-033,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-033,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-034,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-034,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-035,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-035,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-036,Vanilla,1,0.9231
+GPT-5.6 Sol,HumanEval-Java,HE-036,FEGAR,1,0.9231
+GPT-5.6 Sol,HumanEval-Java,HE-037,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-037,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-038,Vanilla,1,0.8000
+GPT-5.6 Sol,HumanEval-Java,HE-038,FEGAR,1,0.8000
+GPT-5.6 Sol,HumanEval-Java,HE-039,Vanilla,1,0.9000
+GPT-5.6 Sol,HumanEval-Java,HE-039,FEGAR,1,0.9000
+GPT-5.6 Sol,HumanEval-Java,HE-040,Vanilla,1,0.8750
+GPT-5.6 Sol,HumanEval-Java,HE-040,FEGAR,1,0.8750
+GPT-5.6 Sol,HumanEval-Java,HE-041,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-041,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-042,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-042,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-043,Vanilla,1,0.8750
+GPT-5.6 Sol,HumanEval-Java,HE-043,FEGAR,1,0.9375
+GPT-5.6 Sol,HumanEval-Java,HE-044,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-044,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-045,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-045,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-046,Vanilla,1,0.8571
+GPT-5.6 Sol,HumanEval-Java,HE-046,FEGAR,1,0.8571
+GPT-5.6 Sol,HumanEval-Java,HE-047,Vanilla,1,0.9333
+GPT-5.6 Sol,HumanEval-Java,HE-047,FEGAR,1,0.9333
+GPT-5.6 Sol,HumanEval-Java,HE-048,Vanilla,1,0.9091
+GPT-5.6 Sol,HumanEval-Java,HE-048,FEGAR,1,0.9091
+GPT-5.6 Sol,HumanEval-Java,HE-049,Vanilla,1,0.9167
+GPT-5.6 Sol,HumanEval-Java,HE-049,FEGAR,1,0.9167
+GPT-5.6 Sol,HumanEval-Java,HE-050,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-050,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-051,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-051,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-052,Vanilla,1,0.9130
+GPT-5.6 Sol,HumanEval-Java,HE-052,FEGAR,1,0.9130
+GPT-5.6 Sol,HumanEval-Java,HE-053,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-053,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-054,Vanilla,1,0.9091
+GPT-5.6 Sol,HumanEval-Java,HE-054,FEGAR,1,0.9091
+GPT-5.6 Sol,HumanEval-Java,HE-055,Vanilla,1,0.9167
+GPT-5.6 Sol,HumanEval-Java,HE-055,FEGAR,1,0.9167
+GPT-5.6 Sol,HumanEval-Java,HE-056,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-056,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-057,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-057,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-058,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-058,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-059,Vanilla,1,0.8000
+GPT-5.6 Sol,HumanEval-Java,HE-059,FEGAR,1,0.8667
+GPT-5.6 Sol,HumanEval-Java,HE-060,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-060,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-061,Vanilla,1,0.9167
+GPT-5.6 Sol,HumanEval-Java,HE-061,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-062,Vanilla,1,0.8889
+GPT-5.6 Sol,HumanEval-Java,HE-062,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-063,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-063,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-064,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-064,FEGAR,1,0.0000
+GPT-5.6 Sol,HumanEval-Java,HE-065,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-065,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-066,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-066,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-067,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-067,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-068,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-068,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-069,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-069,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-070,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-070,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-071,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-071,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-072,Vanilla,1,0.9545
+GPT-5.6 Sol,HumanEval-Java,HE-072,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-073,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-073,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-074,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-074,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-075,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-075,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-076,Vanilla,1,0.9091
+GPT-5.6 Sol,HumanEval-Java,HE-076,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-077,Vanilla,1,0.8421
+GPT-5.6 Sol,HumanEval-Java,HE-077,FEGAR,1,0.9474
+GPT-5.6 Sol,HumanEval-Java,HE-078,Vanilla,1,0.8462
+GPT-5.6 Sol,HumanEval-Java,HE-078,FEGAR,1,0.8462
+GPT-5.6 Sol,HumanEval-Java,HE-079,Vanilla,1,0.9474
+GPT-5.6 Sol,HumanEval-Java,HE-079,FEGAR,1,0.9474
+GPT-5.6 Sol,HumanEval-Java,HE-080,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-080,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-081,Vanilla,1,0.9167
+GPT-5.6 Sol,HumanEval-Java,HE-081,FEGAR,1,0.9167
+GPT-5.6 Sol,HumanEval-Java,HE-082,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-082,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-083,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-083,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-084,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-084,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-085,Vanilla,1,0.9231
+GPT-5.6 Sol,HumanEval-Java,HE-085,FEGAR,1,0.9231
+GPT-5.6 Sol,HumanEval-Java,HE-086,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-086,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-087,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-087,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-088,Vanilla,0,0.0000
+GPT-5.6 Sol,HumanEval-Java,HE-088,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-089,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-089,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-090,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-090,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-091,Vanilla,1,0.8750
+GPT-5.6 Sol,HumanEval-Java,HE-091,FEGAR,1,0.8750
+GPT-5.6 Sol,HumanEval-Java,HE-092,Vanilla,1,0.6667
+GPT-5.6 Sol,HumanEval-Java,HE-092,FEGAR,1,0.6667
+GPT-5.6 Sol,HumanEval-Java,HE-093,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-093,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-094,Vanilla,1,0.8333
+GPT-5.6 Sol,HumanEval-Java,HE-094,FEGAR,1,0.8333
+GPT-5.6 Sol,HumanEval-Java,HE-095,Vanilla,1,0.9091
+GPT-5.6 Sol,HumanEval-Java,HE-095,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-096,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-096,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-097,Vanilla,1,0.8462
+GPT-5.6 Sol,HumanEval-Java,HE-097,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-098,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-098,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-099,Vanilla,1,0.9286
+GPT-5.6 Sol,HumanEval-Java,HE-099,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-100,Vanilla,1,0.8000
+GPT-5.6 Sol,HumanEval-Java,HE-100,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-101,Vanilla,0,0.0000
+GPT-5.6 Sol,HumanEval-Java,HE-101,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-102,Vanilla,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-102,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-103,Vanilla,1,0.6667
+GPT-5.6 Sol,HumanEval-Java,HE-103,FEGAR,1,1.0000
+GPT-5.6 Sol,HumanEval-Java,HE-104,Vanilla,1,0.8000
+GPT-5.6 Sol,HumanEval-Java,HE-104,FEGAR,1,0.8000
+GPT-5.6 Sol,LeetCode-Java,LC-001,Vanilla,1,0.8824
+GPT-5.6 Sol,LeetCode-Java,LC-001,FEGAR,1,0.8824
+GPT-5.6 Sol,LeetCode-Java,LC-002,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-002,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-003,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-003,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-004,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-004,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-005,Vanilla,1,0.8889
+GPT-5.6 Sol,LeetCode-Java,LC-005,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-006,Vanilla,1,0.8750
+GPT-5.6 Sol,LeetCode-Java,LC-006,FEGAR,1,0.9375
+GPT-5.6 Sol,LeetCode-Java,LC-007,Vanilla,1,0.9167
+GPT-5.6 Sol,LeetCode-Java,LC-007,FEGAR,1,0.9167
+GPT-5.6 Sol,LeetCode-Java,LC-008,Vanilla,1,0.9286
+GPT-5.6 Sol,LeetCode-Java,LC-008,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-009,Vanilla,1,0.9167
+GPT-5.6 Sol,LeetCode-Java,LC-009,FEGAR,1,0.9167
+GPT-5.6 Sol,LeetCode-Java,LC-010,Vanilla,1,0.9318
+GPT-5.6 Sol,LeetCode-Java,LC-010,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-011,Vanilla,1,0.8824
+GPT-5.6 Sol,LeetCode-Java,LC-011,FEGAR,1,0.9412
+GPT-5.6 Sol,LeetCode-Java,LC-012,Vanilla,1,0.8571
+GPT-5.6 Sol,LeetCode-Java,LC-012,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-013,Vanilla,1,0.9500
+GPT-5.6 Sol,LeetCode-Java,LC-013,FEGAR,1,0.9500
+GPT-5.6 Sol,LeetCode-Java,LC-014,Vanilla,0,0.0000
+GPT-5.6 Sol,LeetCode-Java,LC-014,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-015,Vanilla,1,0.8235
+GPT-5.6 Sol,LeetCode-Java,LC-015,FEGAR,1,0.9412
+GPT-5.6 Sol,LeetCode-Java,LC-016,Vanilla,1,0.8750
+GPT-5.6 Sol,LeetCode-Java,LC-016,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-017,Vanilla,1,0.9583
+GPT-5.6 Sol,LeetCode-Java,LC-017,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-018,Vanilla,1,0.8000
+GPT-5.6 Sol,LeetCode-Java,LC-018,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-019,Vanilla,1,0.8462
+GPT-5.6 Sol,LeetCode-Java,LC-019,FEGAR,1,0.8846
+GPT-5.6 Sol,LeetCode-Java,LC-020,Vanilla,0,0.0000
+GPT-5.6 Sol,LeetCode-Java,LC-020,FEGAR,1,0.8824
+GPT-5.6 Sol,LeetCode-Java,LC-021,Vanilla,1,0.8235
+GPT-5.6 Sol,LeetCode-Java,LC-021,FEGAR,1,0.8235
+GPT-5.6 Sol,LeetCode-Java,LC-022,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-022,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-023,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-023,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-024,Vanilla,1,0.9600
+GPT-5.6 Sol,LeetCode-Java,LC-024,FEGAR,1,0.9600
+GPT-5.6 Sol,LeetCode-Java,LC-025,Vanilla,1,0.8182
+GPT-5.6 Sol,LeetCode-Java,LC-025,FEGAR,1,0.8182
+GPT-5.6 Sol,LeetCode-Java,LC-026,Vanilla,0,0.0000
+GPT-5.6 Sol,LeetCode-Java,LC-026,FEGAR,1,0.9286
+GPT-5.6 Sol,LeetCode-Java,LC-027,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-027,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-028,Vanilla,1,0.7500
+GPT-5.6 Sol,LeetCode-Java,LC-028,FEGAR,1,0.7500
+GPT-5.6 Sol,LeetCode-Java,LC-029,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-029,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-030,Vanilla,1,0.3529
+GPT-5.6 Sol,LeetCode-Java,LC-030,FEGAR,1,0.3529
+GPT-5.6 Sol,LeetCode-Java,LC-031,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-031,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-032,Vanilla,0,0.0000
+GPT-5.6 Sol,LeetCode-Java,LC-032,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-033,Vanilla,1,0.7692
+GPT-5.6 Sol,LeetCode-Java,LC-033,FEGAR,1,0.9231
+GPT-5.6 Sol,LeetCode-Java,LC-034,Vanilla,0,0.0000
+GPT-5.6 Sol,LeetCode-Java,LC-034,FEGAR,1,0.9348
+GPT-5.6 Sol,LeetCode-Java,LC-035,Vanilla,1,0.8500
+GPT-5.6 Sol,LeetCode-Java,LC-035,FEGAR,1,0.9500
+GPT-5.6 Sol,LeetCode-Java,LC-036,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-036,FEGAR,1,0.9583
+GPT-5.6 Sol,LeetCode-Java,LC-037,Vanilla,1,0.9524
+GPT-5.6 Sol,LeetCode-Java,LC-037,FEGAR,1,0.9524
+GPT-5.6 Sol,LeetCode-Java,LC-038,Vanilla,1,0.8378
+GPT-5.6 Sol,LeetCode-Java,LC-038,FEGAR,1,0.9189
+GPT-5.6 Sol,LeetCode-Java,LC-039,Vanilla,1,0.7727
+GPT-5.6 Sol,LeetCode-Java,LC-039,FEGAR,1,0.9545
+GPT-5.6 Sol,LeetCode-Java,LC-040,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-040,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-041,Vanilla,1,0.9286
+GPT-5.6 Sol,LeetCode-Java,LC-041,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-042,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-042,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-043,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-043,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-044,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-044,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-045,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-045,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-046,Vanilla,1,0.9512
+GPT-5.6 Sol,LeetCode-Java,LC-046,FEGAR,1,0.9512
+GPT-5.6 Sol,LeetCode-Java,LC-047,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-047,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-048,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-048,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-049,Vanilla,1,0.9474
+GPT-5.6 Sol,LeetCode-Java,LC-049,FEGAR,1,0.9474
+GPT-5.6 Sol,LeetCode-Java,LC-050,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-050,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-051,Vanilla,1,0.8966
+GPT-5.6 Sol,LeetCode-Java,LC-051,FEGAR,1,0.9655
+GPT-5.6 Sol,LeetCode-Java,LC-052,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-052,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-053,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-053,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-054,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-054,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-055,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-055,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-056,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-056,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-057,Vanilla,1,0.9231
+GPT-5.6 Sol,LeetCode-Java,LC-057,FEGAR,1,0.9231
+GPT-5.6 Sol,LeetCode-Java,LC-058,Vanilla,1,0.9474
+GPT-5.6 Sol,LeetCode-Java,LC-058,FEGAR,1,0.9474
+GPT-5.6 Sol,LeetCode-Java,LC-059,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-059,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-060,Vanilla,1,0.9200
+GPT-5.6 Sol,LeetCode-Java,LC-060,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-061,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-061,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-062,Vanilla,1,0.9545
+GPT-5.6 Sol,LeetCode-Java,LC-062,FEGAR,1,0.9545
+GPT-5.6 Sol,LeetCode-Java,LC-063,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-063,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-064,Vanilla,0,0.0000
+GPT-5.6 Sol,LeetCode-Java,LC-064,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-065,Vanilla,1,0.8621
+GPT-5.6 Sol,LeetCode-Java,LC-065,FEGAR,1,0.8621
+GPT-5.6 Sol,LeetCode-Java,LC-066,Vanilla,1,0.8649
+GPT-5.6 Sol,LeetCode-Java,LC-066,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-067,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-067,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-068,Vanilla,1,0.9474
+GPT-5.6 Sol,LeetCode-Java,LC-068,FEGAR,1,0.9474
+GPT-5.6 Sol,LeetCode-Java,LC-069,Vanilla,1,0.9524
+GPT-5.6 Sol,LeetCode-Java,LC-069,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-070,Vanilla,1,0.8800
+GPT-5.6 Sol,LeetCode-Java,LC-070,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-071,Vanilla,1,0.9375
+GPT-5.6 Sol,LeetCode-Java,LC-071,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-072,Vanilla,1,0.9524
+GPT-5.6 Sol,LeetCode-Java,LC-072,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-073,Vanilla,1,0.7727
+GPT-5.6 Sol,LeetCode-Java,LC-073,FEGAR,1,0.9545
+GPT-5.6 Sol,LeetCode-Java,LC-074,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-074,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-075,Vanilla,1,0.9524
+GPT-5.6 Sol,LeetCode-Java,LC-075,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-076,Vanilla,0,0.0000
+GPT-5.6 Sol,LeetCode-Java,LC-076,FEGAR,1,0.7500
+GPT-5.6 Sol,LeetCode-Java,LC-077,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-077,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-078,Vanilla,1,0.9200
+GPT-5.6 Sol,LeetCode-Java,LC-078,FEGAR,1,0.9200
+GPT-5.6 Sol,LeetCode-Java,LC-079,Vanilla,1,0.9474
+GPT-5.6 Sol,LeetCode-Java,LC-079,FEGAR,1,0.9474
+GPT-5.6 Sol,LeetCode-Java,LC-080,Vanilla,1,0.7727
+GPT-5.6 Sol,LeetCode-Java,LC-080,FEGAR,1,0.9091
+GPT-5.6 Sol,LeetCode-Java,LC-081,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-081,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-082,Vanilla,1,0.9500
+GPT-5.6 Sol,LeetCode-Java,LC-082,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-083,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-083,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-084,Vanilla,1,0.9583
+GPT-5.6 Sol,LeetCode-Java,LC-084,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-085,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-085,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-086,Vanilla,1,0.9048
+GPT-5.6 Sol,LeetCode-Java,LC-086,FEGAR,1,0.9048
+GPT-5.6 Sol,LeetCode-Java,LC-087,Vanilla,0,0.0000
+GPT-5.6 Sol,LeetCode-Java,LC-087,FEGAR,1,0.9667
+GPT-5.6 Sol,LeetCode-Java,LC-088,Vanilla,0,0.0000
+GPT-5.6 Sol,LeetCode-Java,LC-088,FEGAR,1,0.8824
+GPT-5.6 Sol,LeetCode-Java,LC-089,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-089,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-090,Vanilla,1,0.9444
+GPT-5.6 Sol,LeetCode-Java,LC-090,FEGAR,1,0.9444
+GPT-5.6 Sol,LeetCode-Java,LC-091,Vanilla,1,0.8462
+GPT-5.6 Sol,LeetCode-Java,LC-091,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-092,Vanilla,1,0.8636
+GPT-5.6 Sol,LeetCode-Java,LC-092,FEGAR,1,0.8182
+GPT-5.6 Sol,LeetCode-Java,LC-093,Vanilla,1,0.9286
+GPT-5.6 Sol,LeetCode-Java,LC-093,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-094,Vanilla,1,0.8571
+GPT-5.6 Sol,LeetCode-Java,LC-094,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-095,Vanilla,1,0.8889
+GPT-5.6 Sol,LeetCode-Java,LC-095,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-096,Vanilla,0,0.0000
+GPT-5.6 Sol,LeetCode-Java,LC-096,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-097,Vanilla,1,0.7059
+GPT-5.6 Sol,LeetCode-Java,LC-097,FEGAR,1,0.9412
+GPT-5.6 Sol,LeetCode-Java,LC-098,Vanilla,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-098,FEGAR,1,1.0000
+GPT-5.6 Sol,LeetCode-Java,LC-099,Vanilla,1,0.9600
+GPT-5.6 Sol,LeetCode-Java,LC-099,FEGAR,1,0.9600
+GPT-5.6 Sol,LeetCode-Java,LC-100,Vanilla,1,0.9310
+GPT-5.6 Sol,LeetCode-Java,LC-100,FEGAR,1,0.9655
+Gemini 3.1 Pro,HumanEval-Java,HE-001,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-001,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-002,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-002,FEGAR,1,0.8571
+Gemini 3.1 Pro,HumanEval-Java,HE-003,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-003,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-004,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-004,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-005,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-005,FEGAR,1,0.7857
+Gemini 3.1 Pro,HumanEval-Java,HE-006,Vanilla,1,0.8571
+Gemini 3.1 Pro,HumanEval-Java,HE-006,FEGAR,1,0.8571
+Gemini 3.1 Pro,HumanEval-Java,HE-007,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-007,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-008,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-008,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-009,Vanilla,1,0.8000
+Gemini 3.1 Pro,HumanEval-Java,HE-009,FEGAR,1,0.8333
+Gemini 3.1 Pro,HumanEval-Java,HE-010,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-010,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-011,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-011,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-012,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-012,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-013,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-013,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-014,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-014,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-015,Vanilla,1,0.9000
+Gemini 3.1 Pro,HumanEval-Java,HE-015,FEGAR,1,0.9000
+Gemini 3.1 Pro,HumanEval-Java,HE-016,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-016,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-017,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-017,FEGAR,1,0.5789
+Gemini 3.1 Pro,HumanEval-Java,HE-018,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-018,FEGAR,1,0.9500
+Gemini 3.1 Pro,HumanEval-Java,HE-019,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-019,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-020,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-020,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-021,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-021,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-022,Vanilla,1,0.7500
+Gemini 3.1 Pro,HumanEval-Java,HE-022,FEGAR,1,0.7500
+Gemini 3.1 Pro,HumanEval-Java,HE-023,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-023,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-024,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-024,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-025,Vanilla,1,0.9000
+Gemini 3.1 Pro,HumanEval-Java,HE-025,FEGAR,1,0.9000
+Gemini 3.1 Pro,HumanEval-Java,HE-026,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-026,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-027,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-027,FEGAR,1,0.5000
+Gemini 3.1 Pro,HumanEval-Java,HE-028,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-028,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-029,Vanilla,1,0.8333
+Gemini 3.1 Pro,HumanEval-Java,HE-029,FEGAR,1,0.8333
+Gemini 3.1 Pro,HumanEval-Java,HE-030,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-030,FEGAR,1,0.9000
+Gemini 3.1 Pro,HumanEval-Java,HE-031,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-031,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-032,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-032,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-033,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-033,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-034,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-034,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-035,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-035,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-036,Vanilla,1,0.9231
+Gemini 3.1 Pro,HumanEval-Java,HE-036,FEGAR,1,0.9231
+Gemini 3.1 Pro,HumanEval-Java,HE-037,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-037,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-038,Vanilla,1,0.8000
+Gemini 3.1 Pro,HumanEval-Java,HE-038,FEGAR,1,0.8000
+Gemini 3.1 Pro,HumanEval-Java,HE-039,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-039,FEGAR,1,0.6500
+Gemini 3.1 Pro,HumanEval-Java,HE-040,Vanilla,1,0.8750
+Gemini 3.1 Pro,HumanEval-Java,HE-040,FEGAR,1,0.8750
+Gemini 3.1 Pro,HumanEval-Java,HE-041,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-041,FEGAR,1,0.9667
+Gemini 3.1 Pro,HumanEval-Java,HE-042,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-042,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-043,Vanilla,1,0.8750
+Gemini 3.1 Pro,HumanEval-Java,HE-043,FEGAR,1,0.9375
+Gemini 3.1 Pro,HumanEval-Java,HE-044,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-044,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-045,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-045,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-046,Vanilla,1,0.8571
+Gemini 3.1 Pro,HumanEval-Java,HE-046,FEGAR,1,0.8571
+Gemini 3.1 Pro,HumanEval-Java,HE-047,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-047,FEGAR,1,0.9333
+Gemini 3.1 Pro,HumanEval-Java,HE-048,Vanilla,1,0.9091
+Gemini 3.1 Pro,HumanEval-Java,HE-048,FEGAR,1,0.9091
+Gemini 3.1 Pro,HumanEval-Java,HE-049,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-049,FEGAR,1,0.1667
+Gemini 3.1 Pro,HumanEval-Java,HE-050,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-050,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-051,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-051,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-052,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-052,FEGAR,1,0.9130
+Gemini 3.1 Pro,HumanEval-Java,HE-053,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-053,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-054,Vanilla,1,0.9091
+Gemini 3.1 Pro,HumanEval-Java,HE-054,FEGAR,1,0.9091
+Gemini 3.1 Pro,HumanEval-Java,HE-055,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-055,FEGAR,1,0.9167
+Gemini 3.1 Pro,HumanEval-Java,HE-056,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-056,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-057,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-057,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-058,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-058,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-059,Vanilla,1,0.8667
+Gemini 3.1 Pro,HumanEval-Java,HE-059,FEGAR,1,0.8667
+Gemini 3.1 Pro,HumanEval-Java,HE-060,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-060,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-061,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-061,FEGAR,1,0.5833
+Gemini 3.1 Pro,HumanEval-Java,HE-062,Vanilla,1,0.8889
+Gemini 3.1 Pro,HumanEval-Java,HE-062,FEGAR,1,0.8889
+Gemini 3.1 Pro,HumanEval-Java,HE-063,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-063,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-064,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-064,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-065,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-065,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-066,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-066,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-067,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-067,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-068,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-068,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-069,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-069,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-070,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-070,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-071,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-071,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-072,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-072,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-073,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-073,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-074,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-074,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-075,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-075,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-076,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-076,FEGAR,1,0.9091
+Gemini 3.1 Pro,HumanEval-Java,HE-077,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-077,FEGAR,1,0.9474
+Gemini 3.1 Pro,HumanEval-Java,HE-078,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-078,FEGAR,1,0.8462
+Gemini 3.1 Pro,HumanEval-Java,HE-079,Vanilla,1,0.9474
+Gemini 3.1 Pro,HumanEval-Java,HE-079,FEGAR,1,0.9474
+Gemini 3.1 Pro,HumanEval-Java,HE-080,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-080,FEGAR,1,0.9091
+Gemini 3.1 Pro,HumanEval-Java,HE-081,Vanilla,1,0.9167
+Gemini 3.1 Pro,HumanEval-Java,HE-081,FEGAR,1,0.9167
+Gemini 3.1 Pro,HumanEval-Java,HE-082,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-082,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-083,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-083,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-084,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-084,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-085,Vanilla,1,0.9231
+Gemini 3.1 Pro,HumanEval-Java,HE-085,FEGAR,1,0.9231
+Gemini 3.1 Pro,HumanEval-Java,HE-086,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-086,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-087,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-087,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-088,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-088,FEGAR,1,0.8333
+Gemini 3.1 Pro,HumanEval-Java,HE-089,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-089,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-090,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-090,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-091,Vanilla,1,0.8750
+Gemini 3.1 Pro,HumanEval-Java,HE-091,FEGAR,1,0.8750
+Gemini 3.1 Pro,HumanEval-Java,HE-092,Vanilla,1,0.6667
+Gemini 3.1 Pro,HumanEval-Java,HE-092,FEGAR,1,0.6667
+Gemini 3.1 Pro,HumanEval-Java,HE-093,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-093,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-094,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-094,FEGAR,1,0.8333
+Gemini 3.1 Pro,HumanEval-Java,HE-095,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-095,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-096,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-096,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-097,Vanilla,1,0.7692
+Gemini 3.1 Pro,HumanEval-Java,HE-097,FEGAR,1,0.7692
+Gemini 3.1 Pro,HumanEval-Java,HE-098,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-098,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-099,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-099,FEGAR,1,0.7857
+Gemini 3.1 Pro,HumanEval-Java,HE-100,Vanilla,1,0.8000
+Gemini 3.1 Pro,HumanEval-Java,HE-100,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-101,Vanilla,0,0.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-101,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-102,Vanilla,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-102,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-103,Vanilla,1,0.6667
+Gemini 3.1 Pro,HumanEval-Java,HE-103,FEGAR,1,1.0000
+Gemini 3.1 Pro,HumanEval-Java,HE-104,Vanilla,1,0.8000
+Gemini 3.1 Pro,HumanEval-Java,HE-104,FEGAR,1,0.8000
+Gemini 3.1 Pro,LeetCode-Java,LC-001,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-001,FEGAR,1,0.8235
+Gemini 3.1 Pro,LeetCode-Java,LC-002,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-002,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-003,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-003,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-004,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-004,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-005,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-005,FEGAR,1,0.6667
+Gemini 3.1 Pro,LeetCode-Java,LC-006,Vanilla,1,0.8750
+Gemini 3.1 Pro,LeetCode-Java,LC-006,FEGAR,1,0.9375
+Gemini 3.1 Pro,LeetCode-Java,LC-007,Vanilla,1,0.9167
+Gemini 3.1 Pro,LeetCode-Java,LC-007,FEGAR,1,0.9167
+Gemini 3.1 Pro,LeetCode-Java,LC-008,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-008,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-009,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-009,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-010,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-010,FEGAR,1,0.5909
+Gemini 3.1 Pro,LeetCode-Java,LC-011,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-011,FEGAR,1,0.7647
+Gemini 3.1 Pro,LeetCode-Java,LC-012,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-012,FEGAR,1,0.7143
+Gemini 3.1 Pro,LeetCode-Java,LC-013,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-013,FEGAR,1,0.5000
+Gemini 3.1 Pro,LeetCode-Java,LC-014,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-014,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-015,Vanilla,1,0.8235
+Gemini 3.1 Pro,LeetCode-Java,LC-015,FEGAR,1,0.8235
+Gemini 3.1 Pro,LeetCode-Java,LC-016,Vanilla,1,0.8750
+Gemini 3.1 Pro,LeetCode-Java,LC-016,FEGAR,1,0.8750
+Gemini 3.1 Pro,LeetCode-Java,LC-017,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-017,FEGAR,1,0.6250
+Gemini 3.1 Pro,LeetCode-Java,LC-018,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-018,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-019,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-019,FEGAR,1,0.4615
+Gemini 3.1 Pro,LeetCode-Java,LC-020,Vanilla,1,0.2941
+Gemini 3.1 Pro,LeetCode-Java,LC-020,FEGAR,1,0.2941
+Gemini 3.1 Pro,LeetCode-Java,LC-021,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-021,FEGAR,1,0.5882
+Gemini 3.1 Pro,LeetCode-Java,LC-022,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-022,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-023,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-023,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-024,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-024,FEGAR,1,0.9200
+Gemini 3.1 Pro,LeetCode-Java,LC-025,Vanilla,1,0.8182
+Gemini 3.1 Pro,LeetCode-Java,LC-025,FEGAR,1,0.8182
+Gemini 3.1 Pro,LeetCode-Java,LC-026,Vanilla,1,0.7857
+Gemini 3.1 Pro,LeetCode-Java,LC-026,FEGAR,1,0.7857
+Gemini 3.1 Pro,LeetCode-Java,LC-027,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-027,FEGAR,1,0.9286
+Gemini 3.1 Pro,LeetCode-Java,LC-028,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-028,FEGAR,1,0.3125
+Gemini 3.1 Pro,LeetCode-Java,LC-029,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-029,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-030,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-030,FEGAR,1,0.3529
+Gemini 3.1 Pro,LeetCode-Java,LC-031,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-031,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-032,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-032,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-033,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-033,FEGAR,1,0.7308
+Gemini 3.1 Pro,LeetCode-Java,LC-034,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-034,FEGAR,1,0.8913
+Gemini 3.1 Pro,LeetCode-Java,LC-035,Vanilla,1,0.8000
+Gemini 3.1 Pro,LeetCode-Java,LC-035,FEGAR,1,0.8500
+Gemini 3.1 Pro,LeetCode-Java,LC-036,Vanilla,1,0.9583
+Gemini 3.1 Pro,LeetCode-Java,LC-036,FEGAR,1,0.9583
+Gemini 3.1 Pro,LeetCode-Java,LC-037,Vanilla,1,0.9524
+Gemini 3.1 Pro,LeetCode-Java,LC-037,FEGAR,1,0.9524
+Gemini 3.1 Pro,LeetCode-Java,LC-038,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-038,FEGAR,1,0.6486
+Gemini 3.1 Pro,LeetCode-Java,LC-039,Vanilla,1,0.9091
+Gemini 3.1 Pro,LeetCode-Java,LC-039,FEGAR,1,0.9091
+Gemini 3.1 Pro,LeetCode-Java,LC-040,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-040,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-041,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-041,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-042,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-042,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-043,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-043,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-044,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-044,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-045,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-045,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-046,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-046,FEGAR,1,0.8049
+Gemini 3.1 Pro,LeetCode-Java,LC-047,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-047,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-048,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-048,FEGAR,1,0.4444
+Gemini 3.1 Pro,LeetCode-Java,LC-049,Vanilla,1,0.9474
+Gemini 3.1 Pro,LeetCode-Java,LC-049,FEGAR,1,0.9474
+Gemini 3.1 Pro,LeetCode-Java,LC-050,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-050,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-051,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-051,FEGAR,1,0.6897
+Gemini 3.1 Pro,LeetCode-Java,LC-052,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-052,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-053,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-053,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-054,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-054,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-055,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-055,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-056,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-056,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-057,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-057,FEGAR,1,0.9231
+Gemini 3.1 Pro,LeetCode-Java,LC-058,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-058,FEGAR,1,0.9474
+Gemini 3.1 Pro,LeetCode-Java,LC-059,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-059,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-060,Vanilla,1,0.8800
+Gemini 3.1 Pro,LeetCode-Java,LC-060,FEGAR,1,0.6800
+Gemini 3.1 Pro,LeetCode-Java,LC-061,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-061,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-062,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-062,FEGAR,1,0.2727
+Gemini 3.1 Pro,LeetCode-Java,LC-063,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-063,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-064,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-064,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-065,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-065,FEGAR,1,0.7586
+Gemini 3.1 Pro,LeetCode-Java,LC-066,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-066,FEGAR,1,0.8108
+Gemini 3.1 Pro,LeetCode-Java,LC-067,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-067,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-068,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-068,FEGAR,1,0.8421
+Gemini 3.1 Pro,LeetCode-Java,LC-069,Vanilla,1,0.9524
+Gemini 3.1 Pro,LeetCode-Java,LC-069,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-070,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-070,FEGAR,1,0.8000
+Gemini 3.1 Pro,LeetCode-Java,LC-071,Vanilla,1,0.1875
+Gemini 3.1 Pro,LeetCode-Java,LC-071,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-072,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-072,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-073,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-073,FEGAR,1,0.6364
+Gemini 3.1 Pro,LeetCode-Java,LC-074,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-074,FEGAR,1,0.7500
+Gemini 3.1 Pro,LeetCode-Java,LC-075,Vanilla,1,0.9524
+Gemini 3.1 Pro,LeetCode-Java,LC-075,FEGAR,1,0.9524
+Gemini 3.1 Pro,LeetCode-Java,LC-076,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-076,FEGAR,1,0.7500
+Gemini 3.1 Pro,LeetCode-Java,LC-077,Vanilla,1,0.9444
+Gemini 3.1 Pro,LeetCode-Java,LC-077,FEGAR,1,0.8889
+Gemini 3.1 Pro,LeetCode-Java,LC-078,Vanilla,1,0.8800
+Gemini 3.1 Pro,LeetCode-Java,LC-078,FEGAR,1,0.9200
+Gemini 3.1 Pro,LeetCode-Java,LC-079,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-079,FEGAR,1,0.9474
+Gemini 3.1 Pro,LeetCode-Java,LC-080,Vanilla,1,0.8182
+Gemini 3.1 Pro,LeetCode-Java,LC-080,FEGAR,1,0.9091
+Gemini 3.1 Pro,LeetCode-Java,LC-081,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-081,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-082,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-082,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-083,Vanilla,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-083,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-084,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-084,FEGAR,1,0.6875
+Gemini 3.1 Pro,LeetCode-Java,LC-085,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-085,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-086,Vanilla,1,0.9048
+Gemini 3.1 Pro,LeetCode-Java,LC-086,FEGAR,1,0.9048
+Gemini 3.1 Pro,LeetCode-Java,LC-087,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-087,FEGAR,1,0.9667
+Gemini 3.1 Pro,LeetCode-Java,LC-088,Vanilla,1,0.8824
+Gemini 3.1 Pro,LeetCode-Java,LC-088,FEGAR,1,0.8824
+Gemini 3.1 Pro,LeetCode-Java,LC-089,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-089,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-090,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-090,FEGAR,1,0.9444
+Gemini 3.1 Pro,LeetCode-Java,LC-091,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-091,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-092,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-092,FEGAR,1,0.9091
+Gemini 3.1 Pro,LeetCode-Java,LC-093,Vanilla,1,0.9286
+Gemini 3.1 Pro,LeetCode-Java,LC-093,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-094,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-094,FEGAR,1,0.6190
+Gemini 3.1 Pro,LeetCode-Java,LC-095,Vanilla,1,0.8889
+Gemini 3.1 Pro,LeetCode-Java,LC-095,FEGAR,1,0.8889
+Gemini 3.1 Pro,LeetCode-Java,LC-096,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-096,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-097,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-097,FEGAR,1,0.0588
+Gemini 3.1 Pro,LeetCode-Java,LC-098,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-098,FEGAR,1,1.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-099,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-099,FEGAR,1,0.9600
+Gemini 3.1 Pro,LeetCode-Java,LC-100,Vanilla,0,0.0000
+Gemini 3.1 Pro,LeetCode-Java,LC-100,FEGAR,1,0.9310
